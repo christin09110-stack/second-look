@@ -1,0 +1,17 @@
+{
+ "file": "sages-0041dfb1-030.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  1.0,
+  0.0,
+  1.0
+ ],
+ "why": [
+  "duct and artery not discernible; neck obscured by instruments, blood and fat",
+  "omentum and fat fill the triangle, no cleared window",
+  "gallbladder not elevated, no bare cystic plate strip visible"
+ ],
+ "instruments": "blue-handled instrument (possible clip applier or suction) and a gray grasper both at the gallbladder neck; no scissors evident",
+ "view": "clear with some blood at the dissection site",
+ "seconds": 15.6
+}

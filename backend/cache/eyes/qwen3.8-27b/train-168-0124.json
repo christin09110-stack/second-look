@@ -1,0 +1,17 @@
+{
+ "file": "train-168-0124.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  1.0,
+  1.0
+ ],
+ "why": [
+  "no two clear separate tubes at neck; fat/fibrous obscures",
+  "yellow fat and fibrous tissue still over/between triangle",
+  "gallbladder not lifted; no bare liver strip visible"
+ ],
+ "instruments": "grasper (left) holding gallbladder; white-tipped instrument (right) at the triangle; cannot tell if clip applier/scissors at a duct or vessel",
+ "view": "clear",
+ "seconds": 16.3
+}

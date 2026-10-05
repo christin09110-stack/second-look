@@ -1,0 +1,17 @@
+{
+ "file": "sages-e60de21a-085.jpg",
+ "model": "moonshotai/Kimi-K2.6",
+ "scores": [
+  2.0,
+  1.0,
+  1.0
+ ],
+ "why": [
+  "only one tube visible, second not seen",
+  "close-up with tissue obscuring triangle",
+  "gallbladder and cystic plate not in view"
+ ],
+ "instruments": "clip applier at duct/vessel, grasper",
+ "view": "clear",
+ "seconds": 39.6
+}

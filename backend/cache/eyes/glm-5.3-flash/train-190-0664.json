@@ -1,0 +1,17 @@
+{
+ "file": "train-190-0664.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  2.0,
+  1.0,
+  6.0
+ ],
+ "why": [
+  "one pale tubular structure near hook tip, no clearly separate artery, tissue still around neck",
+  "yellow fat and fibrous tissue still cover the triangle around the neck and duct",
+  "gallbladder lifted up-left with shiny bare liver strip showing, but dissection at neck incomplete"
+ ],
+ "instruments": "fenestrated grasper holding gallbladder on left; hook dissector (white insulated shaft) dissecting at the cystic duct region; no clip applier or scissors",
+ "view": "clear",
+ "seconds": 29.1
+}

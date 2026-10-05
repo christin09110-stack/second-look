@@ -1,0 +1,17 @@
+{
+ "file": "endoscapes-194-0246.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  2.0,
+  2.0,
+  2.0
+ ],
+ "why": [
+  "no two distinct tubes seen entering the neck; area still covered by fibrous tissue",
+  "fibrous and fatty tissue clearly remains over the triangle",
+  "gallbladder still applied to liver, no bare cystic plate strip"
+ ],
+ "instruments": "grasper/dissector tip at left edge, not at duct or vessel",
+ "view": "clear",
+ "seconds": 15.4
+}

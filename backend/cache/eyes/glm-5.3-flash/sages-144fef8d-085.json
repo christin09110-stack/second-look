@@ -1,0 +1,17 @@
+{
+ "file": "sages-144fef8d-085.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  2.0,
+  2.0,
+  3.0
+ ],
+ "why": [
+  "one pale tube partly seen but artery not distinct and fat still covers the neck",
+  "yellow fatty tissue still lies over and between the structures",
+  "no clear bare liver strip; gallbladder not lifted off liver bed"
+ ],
+ "instruments": "grasper/retracted tissue at upper left; no clip applier or scissors at duct or vessel",
+ "view": "clear",
+ "seconds": 29.7
+}

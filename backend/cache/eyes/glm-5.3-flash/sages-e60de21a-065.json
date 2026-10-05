@@ -1,0 +1,17 @@
+{
+ "file": "sages-e60de21a-065.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  2.0,
+  2.0,
+  2.0
+ ],
+ "why": [
+  "one tubular structure likely duct, artery not separately identified, neck still covered",
+  "yellow fat and fibrous tissue still over triangle area",
+  "gallbladder not lifted, no clear bare liver strip visible"
+ ],
+ "instruments": "two graspers/dissectors, no clip applier or scissors at duct or vessel",
+ "view": "blurred",
+ "seconds": 17.3
+}

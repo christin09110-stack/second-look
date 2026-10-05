@@ -1,0 +1,17 @@
+{
+ "file": "sages-e60de21a-055.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  1.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "no two clear separate tubes; neck obscured by tissue",
+  "fat/fibrous tissue still over and between structures",
+  "no bare liver strip; gallbladder not lifted off plate"
+ ],
+ "instruments": "clip applier (right) and a second shaft (left, jaw out of view); clip applier at tissue, none (cannot tell if at duct/vessel)",
+ "view": "clear",
+ "seconds": 15.3
+}

@@ -1,0 +1,17 @@
+{
+ "file": "sages-144fef8d-080.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  2.0,
+  2.0,
+  2.0
+ ],
+ "why": [
+  "one pale tube (likely duct) seen, no separate artery, strands still crossing it",
+  "yellow fibrofatty tissue and strands still cover the triangle junction",
+  "gallbladder not lifted off liver, no bare cystic plate strip visible"
+ ],
+ "instruments": "atraumatic grasper retracting gallbladder on left; no clip applier or scissors at duct/vessel",
+ "view": "clear",
+ "seconds": 14.5
+}

@@ -1,0 +1,17 @@
+{
+ "file": "sages-144fef8d-045.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  2.0,
+  5.0
+ ],
+ "why": [
+  "one pale tube clear at bottom; second tube obscured by fat and grasper",
+  "yellow fat/fibrous tissue still fills the triangle",
+  "gallbladder lifted, dark bare liver strip shows below"
+ ],
+ "instruments": "clip applier at left, grasper at right; none at a duct/vessel (cannot tell)",
+ "view": "clear",
+ "seconds": 17.8
+}

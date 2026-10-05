@@ -1,0 +1,17 @@
+{
+ "file": "sages-144fef8d-085.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  3.0,
+  2.0,
+  6.0
+ ],
+ "why": [
+  "one pale tube clear; second tube not distinct",
+  "yellow fat/fibrous tissue at neck over triangle",
+  "gallbladder retracted, bare liver strip at bottom"
+ ],
+ "instruments": "grasper/forceps at top-left holding neck; none clearly at a duct",
+ "view": "clear",
+ "seconds": 22.1
+}

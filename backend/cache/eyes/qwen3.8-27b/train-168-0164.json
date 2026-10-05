@@ -1,0 +1,17 @@
+{
+ "file": "train-168-0164.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "only one tube (duct) clear; artery buried in fat",
+  "yellow fat/fibrous tissue over and between tubes",
+  "no bare liver strip; gallbladder still adherent"
+ ],
+ "instruments": "grasper/retractor on left holding neck; none at a duct or vessel",
+ "view": "clear",
+ "seconds": 11.3
+}

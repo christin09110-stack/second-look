@@ -1,0 +1,17 @@
+{
+ "file": "train-190-0744.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  1.0,
+  6.0
+ ],
+ "why": [
+  "one pale tube seen, second not clear",
+  "fat/fibrous tissue fills triangle",
+  "gallbladder retracted, bare liver below"
+ ],
+ "instruments": "grasper left; clip applier right at a duct/vessel",
+ "view": "clear",
+ "seconds": 10.2
+}

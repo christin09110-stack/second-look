@@ -1,0 +1,17 @@
+{
+ "file": "train-190-0689.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  2.0,
+  2.0,
+  5.0
+ ],
+ "why": [
+  "only one pale tube (duct/infundibulum) seen; no separate artery, tissue still covering",
+  "yellow fat and fibrous strands still blanket the triangle around the tube",
+  "gallbladder lifted and liver seen, but strip shows residual fibrous strands, borderline"
+ ],
+ "instruments": "L-hook dissector dissecting at the gallbladder neck/duct area; no clip applier or scissors; possible grasper on gallbladder at left edge",
+ "view": "clear",
+ "seconds": 18.6
+}

@@ -1,0 +1,17 @@
+{
+ "file": "sages-e60de21a-060.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  2.0,
+  1.0,
+  3.0
+ ],
+ "why": [
+  "only one pale tubular structure vaguely seen, no two distinct tubes clear of tissue",
+  "yellow fibrofatty tissue still covers the triangle area",
+  "liver surface visible but gallbladder not clearly lifted to show cystic plate"
+ ],
+ "instruments": "dark-shaft retractor/grasper from left and fenestrated grasper on right; no clip applier or scissors at duct or vessel",
+ "view": "clear but dark/underexposed",
+ "seconds": 12.9
+}

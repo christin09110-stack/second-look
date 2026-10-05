@@ -1,0 +1,17 @@
+{
+ "file": "train-168-0169.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  0.0,
+  0.0,
+  0.0
+ ],
+ "why": [
+  "no duct or artery visible; view shows liver and omentum only",
+  "hepatocystic triangle not in view, only liver surface and fatty omentum",
+  "gallbladder not elevated, no cystic plate exposed"
+ ],
+ "instruments": "none visible",
+ "view": "clear",
+ "seconds": 10.3
+}

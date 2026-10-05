@@ -1,0 +1,17 @@
+{
+ "file": "sages-144fef8d-030.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  2.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "tubes obscured by fat, not seen as two separate structures",
+  "yellow fat still covering triangle area",
+  "no clear bare liver strip, gallbladder not lifted"
+ ],
+ "instruments": "grasper upper left, suction/dissector tip at tissue, no clip applier or scissors",
+ "view": "smoky, dark",
+ "seconds": 14.1
+}

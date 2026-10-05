@@ -1,0 +1,17 @@
+{
+ "file": "train-168-0119.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "one pale tube at base, no second clear separate tube",
+  "yellow fat/fibrous tissue fills the triangle",
+  "gallbladder not lifted, no bare liver strip seen"
+ ],
+ "instruments": "clip applier at left; white-tipped dissecting instrument at right; none clearly at a duct or vessel",
+ "view": "clear",
+ "seconds": 16.5
+}

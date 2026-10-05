@@ -1,0 +1,17 @@
+{
+ "file": "sages-280aaeb3-050.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  1.0,
+  0.0,
+  1.0
+ ],
+ "why": [
+  "no two separate tubes entering a gallbladder neck can be identified; field shows only a smooth distended structure and overlying fibrofatty tissue",
+  "hepatocystic triangle not dissected open; fibrous/fatty tissue still covers the area, no clean window",
+  "no bare liver strip (cystic plate) visible; gallbladder not lifted off liver surface"
+ ],
+ "instruments": "none visible in the surgical field (overlay labels a grasper channel but no instrument tip is seen)",
+ "view": "blurred",
+ "seconds": 14.7
+}

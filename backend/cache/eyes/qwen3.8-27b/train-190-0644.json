@@ -1,0 +1,17 @@
+{
+ "file": "train-190-0644.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  1.0,
+  1.0,
+  6.0
+ ],
+ "why": [
+  "two tubes not distinct; one hidden by instrument",
+  "yellow fat and fibrous tissue still fill the triangle",
+  "gallbladder retracted, bare liver strip borderline"
+ ],
+ "instruments": "grasper (forceps) at left; dark shafted instrument at center; cannot tell if at a duct/vessel (none)",
+ "view": "clear",
+ "seconds": 14.1
+}

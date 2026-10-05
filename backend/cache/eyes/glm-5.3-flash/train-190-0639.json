@@ -1,0 +1,17 @@
+{
+ "file": "train-190-0639.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  2.0,
+  2.0,
+  2.0
+ ],
+ "why": [
+  "one tubular structure with fat on it; no second separate tube (artery) seen",
+  "yellow fat and fibrous strands still cover the triangle area",
+  "gallbladder not lifted; no bare liver strip visible between it and liver"
+ ],
+ "instruments": "cautery dissector with blunt tip at the gallbladder neck tissue; no clip applier or scissors",
+ "view": "clear",
+ "seconds": 11.9
+}

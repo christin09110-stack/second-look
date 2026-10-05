@@ -1,0 +1,17 @@
+{
+ "file": "sages-e60de21a-050.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  1.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "no two distinct clear tubes; tissue still surrounds",
+  "fibrous/fatty tissue fills the triangle",
+  "no bare liver strip; gallbladder not lifted"
+ ],
+ "instruments": "grasper/retractor shaft (left) and open clip applier (right); none clearly at a duct/vessel",
+ "view": "clear",
+ "seconds": 14.5
+}

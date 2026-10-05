@@ -1,0 +1,17 @@
+{
+ "file": "sages-280aaeb3-040.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  1.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "no two distinct tubes, dark/obscured",
+  "triangle not delineated, tissue/fat present",
+  "no clear bare liver strip, foreground ambiguous"
+ ],
+ "instruments": "crocodile grasper per UI label, not seen at a duct; no clip applier/scissors visible",
+ "view": "blurred, dark",
+ "seconds": 8.2
+}

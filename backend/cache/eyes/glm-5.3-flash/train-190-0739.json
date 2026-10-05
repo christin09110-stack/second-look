@@ -1,0 +1,17 @@
+{
+ "file": "train-190-0739.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  2.0,
+  2.0,
+  5.0
+ ],
+ "why": [
+  "one whitish tube at neck, no separate artery, edematous tissue obscures",
+  "fat and fibrous tissue still fill the triangle around the neck",
+  "gallbladder lifted with grey strip appearing above, but not a clear wide plate"
+ ],
+ "instruments": "fenestrated grasper on infundibulum; clip applier tip at neck/duct junction (not clearly clipping)",
+ "view": "clear",
+ "seconds": 26.0
+}

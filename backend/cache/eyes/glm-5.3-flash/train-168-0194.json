@@ -1,0 +1,17 @@
+{
+ "file": "train-168-0194.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  0.0,
+  0.0,
+  0.0
+ ],
+ "why": [
+  "no separate duct or artery visible at the gallbladder neck",
+  "triangle undissected, fat and omentum still cover the area",
+  "gallbladder still adherent to liver, no bare cystic plate"
+ ],
+ "instruments": "none visible",
+ "view": "clear",
+ "seconds": 8.4
+}

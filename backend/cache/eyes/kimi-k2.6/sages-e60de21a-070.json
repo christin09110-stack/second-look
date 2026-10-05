@@ -1,0 +1,17 @@
+{
+ "file": "sages-e60de21a-070.jpg",
+ "model": "moonshotai/Kimi-K2.6",
+ "scores": [
+  2.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "only one tubular structure seen, second tube not clear",
+  "fat and fibrous tissue still surround the area",
+  "no bare cystic plate visible, view too close"
+ ],
+ "instruments": "grasper and fine dissector, no clip applier",
+ "view": "dark and close-up",
+ "seconds": 72.0
+}

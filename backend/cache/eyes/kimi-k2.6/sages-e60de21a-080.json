@@ -1,0 +1,17 @@
+{
+ "file": "sages-e60de21a-080.jpg",
+ "model": "moonshotai/Kimi-K2.6",
+ "scores": [
+  1.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "only one thin tube seen, not two separate ducts/arteries",
+  "fat and fibrous tissue obscuring hepatocystic triangle",
+  "no bare cystic plate strip between gallbladder and liver"
+ ],
+ "instruments": "grasper; no clip applier or scissors at duct or vessel",
+ "view": "clear",
+ "seconds": 38.7
+}

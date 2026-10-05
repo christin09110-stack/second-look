@@ -1,0 +1,17 @@
+{
+ "file": "sages-144fef8d-035.jpg",
+ "model": "moonshotai/Kimi-K2.6",
+ "scores": [
+  1.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "No separate cystic duct and artery visible",
+  "Fat and fibrous tissue remain in triangle",
+  "No bare cystic plate seen between gallbladder and liver"
+ ],
+ "instruments": "grasper and dissecting instrument; no clip applier or scissors at duct or vessel",
+ "view": "clear",
+ "seconds": 55.4
+}

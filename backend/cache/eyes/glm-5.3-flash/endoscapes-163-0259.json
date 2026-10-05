@@ -1,0 +1,17 @@
+{
+ "file": "endoscapes-163-0259.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  1.0,
+  0.0,
+  1.0
+ ],
+ "why": [
+  "one tissue-covered tube at best, no separate artery seen",
+  "fat and fibrous tissue still fill the triangle",
+  "gallbladder not lifted, no bare liver strip"
+ ],
+ "instruments": "fenestrated grasper holding gallbladder on left, claw grasper on right; no clip applier or scissors",
+ "view": "bloody",
+ "seconds": 16.8
+}

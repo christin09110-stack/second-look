@@ -1,0 +1,17 @@
+{
+ "file": "sages-0041dfb1-075.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  1.0,
+  0.0,
+  1.0
+ ],
+ "why": [
+  "duct and artery hidden under omental fat, no separate tubes seen",
+  "hepatocystic triangle covered by abundant yellow fat, not dissected",
+  "gallbladder not lifted, no bare liver plate visible"
+ ],
+ "instruments": "metallic grasper/clip applier at gallbladder neck, not clearly on a duct or vessel",
+ "view": "clear",
+ "seconds": 10.2
+}

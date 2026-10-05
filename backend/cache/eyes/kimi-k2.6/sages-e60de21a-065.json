@@ -1,0 +1,17 @@
+{
+ "file": "sages-e60de21a-065.jpg",
+ "model": "moonshotai/Kimi-K2.6",
+ "scores": [
+  4.0,
+  2.0,
+  3.0
+ ],
+ "why": [
+  "tubes partially seen but not clearly separate and free of tissue",
+  "fat and fibrous tissue remain in triangle",
+  "bare liver strip not clearly visible"
+ ],
+ "instruments": "two graspers, none at duct or vessel",
+ "view": "dim",
+ "seconds": 62.8
+}

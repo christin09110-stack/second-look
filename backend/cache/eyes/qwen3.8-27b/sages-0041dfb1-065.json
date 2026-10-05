@@ -1,0 +1,17 @@
+{
+ "file": "sages-0041dfb1-065.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "one tube with blood at center, no two clear separate tubes",
+  "yellow fat and fibrous tissue over/between the triangle",
+  "no bare liver strip; gallbladder not lifted off liver"
+ ],
+ "instruments": "open clip applier (right) and grasper shaft (left); left tip at a bleeding structure, clip applier not clearly at a duct \u2014 none confirmed",
+ "view": "clear, minor blood at center",
+ "seconds": 11.6
+}

@@ -1,0 +1,17 @@
+{
+ "file": "sages-144fef8d-040.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  1.0,
+  2.0,
+  2.0
+ ],
+ "why": [
+  "no two separate tubes seen at neck, area fat-covered",
+  "yellow fat still covers hepatocystic triangle",
+  "gallbladder not lifted, no bare cystic plate strip"
+ ],
+ "instruments": "suction/dissector probe near fat at neck; no clip applier or scissors at duct or vessel",
+ "view": "blurred",
+ "seconds": 40.4
+}

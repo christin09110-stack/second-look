@@ -1,0 +1,17 @@
+{
+ "file": "sages-280aaeb3-070.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  0.0,
+  0.0,
+  1.0
+ ],
+ "why": [
+  "no duct or artery identifiable; gallbladder neck not seen",
+  "triangle not delineated, fibrous bloody tissue overlying area",
+  "no bare liver strip visible, gallbladder not lifted, view too dark"
+ ],
+ "instruments": "none visible in field; overlay reads Crocodile Grasper / no instrument installed",
+ "view": "dark and bloody",
+ "seconds": 13.3
+}

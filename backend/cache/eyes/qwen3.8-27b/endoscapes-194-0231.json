@@ -1,0 +1,17 @@
+{
+ "file": "endoscapes-194-0231.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  2.0,
+  7.0
+ ],
+ "why": [
+  "only one dark stump visible, two clear tubes not both seen",
+  "yellow fat and fibrous tissue still fill the triangle",
+  "gallbladder retracted left, bare liver surface shows below"
+ ],
+ "instruments": "clip applier at left on gallbladder/neck; none (cannot tell if at a duct or vessel)",
+ "view": "clear",
+ "seconds": 15.2
+}

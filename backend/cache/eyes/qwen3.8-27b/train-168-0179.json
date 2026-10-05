@@ -1,0 +1,17 @@
+{
+ "file": "train-168-0179.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  0.0,
+  0.0,
+  1.0
+ ],
+ "why": [
+  "no two distinct tubes at gallbladder neck",
+  "yellow fat band across the triangle, no clean view",
+  "no lifted gallbladder with bare liver strip; fat present"
+ ],
+ "instruments": "none identifiable",
+ "view": "clear",
+ "seconds": 8.2
+}

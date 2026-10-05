@@ -1,0 +1,17 @@
+{
+ "file": "train-168-0154.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  1.0,
+  3.0
+ ],
+ "why": [
+  "only one tube at right edge, no two clear tubes at the neck",
+  "yellow fat/fibrous tissue over the triangle, not clean",
+  "liver fills the view, gallbladder not lifted to show a bare strip"
+ ],
+ "instruments": "none visible",
+ "view": "clear",
+ "seconds": 11.7
+}

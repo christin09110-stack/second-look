@@ -1,0 +1,17 @@
+{
+ "file": "sages-280aaeb3-035.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  1.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "no two separate tubes seen entering gallbladder neck; area still covered by fibrofatty tissue",
+  "yellow fat and fibrous tissue still cover the triangle, hook still dissecting",
+  "no bare liver strip demonstrated; gallbladder not clearly lifted off liver"
+ ],
+ "instruments": "permanent cautery hook actively dissecting fibrofatty tissue near gallbladder neck; crocodile grasper labeled but not clearly in view; no clip applier or scissors at duct or vessel",
+ "view": "blurred",
+ "seconds": 22.4
+}

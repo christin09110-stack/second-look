@@ -1,0 +1,17 @@
+{
+ "file": "train-168-0219.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "tubes obscured by fibrous tissue and blood",
+  "fat and white fibrous strands remain in triangle",
+  "no bare liver strip; GB not clearly lifted"
+ ],
+ "instruments": "clip applier (top) and white-tipped dissecting instrument (right); none clearly at a duct or vessel",
+ "view": "clear with some blood",
+ "seconds": 12.2
+}

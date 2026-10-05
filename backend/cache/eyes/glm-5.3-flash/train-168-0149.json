@@ -1,0 +1,17 @@
+{
+ "file": "train-168-0149.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  2.0,
+  2.0,
+  3.0
+ ],
+ "why": [
+  "one tubular structure crosses the field but no second separate tube; fat still envelops the neck",
+  "yellow fat and fibrous tissue still cover the triangle between the tubes and liver",
+  "liver seen behind but gallbladder not yet lifted off; no bare cystic plate strip"
+ ],
+ "instruments": "claw grasper upper left retracting, L-hook dissector from right dissecting at the neck; no clip applier or scissors",
+ "view": "clear",
+ "seconds": 18.1
+}

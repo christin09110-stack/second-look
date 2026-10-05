@@ -1,0 +1,17 @@
+{
+ "file": "train-168-0124.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  1.0,
+  0.0,
+  1.0
+ ],
+ "why": [
+  "fat-covered neck, only a small dark window, no two distinct tubes seen",
+  "",
+  "gallbladder not lifted, no bare liver strip between it and liver edge"
+ ],
+ "instruments": "fenestrated grasper retracting gallbladder (left) and hook dissector dissecting at the neck (right); no clip applier or scissors",
+ "view": "clear",
+ "seconds": 14.4
+}

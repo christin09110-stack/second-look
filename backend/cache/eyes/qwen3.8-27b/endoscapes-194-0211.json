@@ -1,0 +1,17 @@
+{
+ "file": "endoscapes-194-0211.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  1.0,
+  1.0,
+  3.0
+ ],
+ "why": [
+  "no two distinct clear tubes at the neck",
+  "fat/fibrous tissue at top right, no clean critical view",
+  "liver surface bare but gallbladder not clearly lifted, no definite strip"
+ ],
+ "instruments": "gray shaft instrument from top right and a second instrument at bottom; cannot tell if at a duct or vessel",
+ "view": "clear",
+ "seconds": 14.5
+}

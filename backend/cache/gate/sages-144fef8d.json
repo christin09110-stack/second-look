@@ -1,0 +1,123 @@
+{
+ "case": "sages-144fef8d",
+ "decision": {
+  "frames": [
+   {
+    "i": 0,
+    "c1": "met",
+    "c2": "met",
+    "c3": "not_met",
+    "action": "silent",
+    "note": ""
+   },
+   {
+    "i": 1,
+    "c1": "met",
+    "c2": "met",
+    "c3": "not_met",
+    "action": "silent",
+    "note": ""
+   },
+   {
+    "i": 2,
+    "c1": "met",
+    "c2": "met",
+    "c3": "not_met",
+    "action": "silent",
+    "note": ""
+   },
+   {
+    "i": 3,
+    "c1": "met",
+    "c2": "met",
+    "c3": "not_met",
+    "action": "silent",
+    "note": ""
+   },
+   {
+    "i": 4,
+    "c1": "met",
+    "c2": "not_met",
+    "c3": "not_met",
+    "action": "log",
+    "note": "Hepatocystic triangle not cleared; fat and fibrous tissue remain."
+   },
+   {
+    "i": 5,
+    "c1": "met",
+    "c2": "met",
+    "c3": "met",
+    "action": "log",
+    "note": "Hepatocystic triangle cleared; cystic plate exposed."
+   },
+   {
+    "i": 6,
+    "c1": "met",
+    "c2": "met",
+    "c3": "not_met",
+    "action": "log",
+    "note": "Cystic plate not exposed; liver contact remains."
+   },
+   {
+    "i": 7,
+    "c1": "met",
+    "c2": "met",
+    "c3": "not_met",
+    "action": "silent",
+    "note": ""
+   },
+   {
+    "i": 8,
+    "c1": "met",
+    "c2": "not_met",
+    "c3": "not_met",
+    "action": "log",
+    "note": "Hepatocystic triangle not cleared; fat reappears."
+   },
+   {
+    "i": 9,
+    "c1": "met",
+    "c2": "not_met",
+    "c3": "not_met",
+    "action": "silent",
+    "note": ""
+   },
+   {
+    "i": 10,
+    "c1": "met",
+    "c2": "met",
+    "c3": "not_met",
+    "action": "log",
+    "note": "Hepatocystic triangle cleared; fat removed."
+   },
+   {
+    "i": 11,
+    "c1": "met",
+    "c2": "met",
+    "c3": "not_met",
+    "action": "silent",
+    "note": ""
+   }
+  ],
+  "gate": {
+   "verdict": "hold",
+   "c1": "met",
+   "c2": "met",
+   "c3": "not_met",
+   "message": "Hold. Cystic plate not exposed."
+  }
+ },
+ "audit": {
+  "verdict": "hold",
+  "changed": false,
+  "debrief": "The last frame clearly confirms the cystic plate is not yet fully exposed right now. You must now carefully and fully expose the entire cystic plate immediately for safe completion."
+ },
+ "models": {
+  "eyes": [
+   "Qwen/Qwen3.8-27B",
+   "zai-org/GLM-5.3-Flash"
+  ],
+  "gate": "nvidia/nemotron-3-super-120b-a12b",
+  "audit": "nvidia/Nemotron-3-Ultra-550b-a55b"
+ }
+}

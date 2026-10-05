@@ -1,0 +1,17 @@
+{
+ "file": "sages-144fef8d-050.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "one tube seen, no two clear separate tubes",
+  "yellow fat and fibrous strands over/between",
+  "gallbladder not lifted, no bare liver strip"
+ ],
+ "instruments": "clip applier at gallbladder neck tissue; white-tipped dissector in triangle; not clearly at a duct or vessel",
+ "view": "clear",
+ "seconds": 7.9
+}

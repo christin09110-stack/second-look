@@ -1,0 +1,17 @@
+{
+ "file": "sages-0041dfb1-030.jpg",
+ "model": "moonshotai/Kimi-K2.6",
+ "scores": [
+  2.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "no two separate tubes clearly seen",
+  "fat and fibrous tissue remain in triangle",
+  "gallbladder lifted but cystic plate not visible"
+ ],
+ "instruments": "grasper and dissector; no clip applier or scissors at duct or vessel",
+ "view": "clear, some blood",
+ "seconds": 48.3
+}

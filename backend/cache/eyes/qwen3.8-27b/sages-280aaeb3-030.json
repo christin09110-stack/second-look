@@ -1,0 +1,17 @@
+{
+ "file": "sages-280aaeb3-030.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  1.0,
+  3.0
+ ],
+ "why": [
+  "central shaft blocks view; no two distinct clear tubes",
+  "yellow fat/fibrous tissue fills the triangle",
+  "smooth surface below but no defined bare liver strip"
+ ],
+ "instruments": "cautery hook (black shaft) centered with tip in fibrous tissue; crocodile grasper not clearly seen; no clear duct/vessel contact",
+ "view": "clear but dark and low-resolution",
+ "seconds": 9.7
+}

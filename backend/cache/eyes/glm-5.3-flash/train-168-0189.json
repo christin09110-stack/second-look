@@ -1,0 +1,17 @@
+{
+ "file": "train-168-0189.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  0.0,
+  0.0,
+  0.0
+ ],
+ "why": [
+  "gallbladder still attached; no duct or artery dissected or visible",
+  "hepatocystic triangle not opened; serosa and liver intact, no triangle exposed",
+  "gallbladder not lifted off liver; no bare cystic plate visible"
+ ],
+ "instruments": "none visible",
+ "view": "clear",
+ "seconds": 7.6
+}

@@ -1,0 +1,17 @@
+{
+ "file": "sages-0041dfb1-035.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  1.0,
+  1.0,
+  4.0
+ ],
+ "why": [
+  "neck obscured by tissue/instruments, no two clear tubes",
+  "yellow fat and fibrous tissue plus blood fill the triangle",
+  "gallbladder retracted but no clean bare liver strip visible"
+ ],
+ "instruments": "a grasper and a second instrument (clip applier/scissors) working at the gallbladder neck with a small bleed; cannot confirm either is on a specific duct",
+ "view": "clear with focal bleeding at the neck",
+ "seconds": 12.0
+}

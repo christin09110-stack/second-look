@@ -1,0 +1,17 @@
+{
+ "file": "train-168-0244.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  5.0,
+  2.0,
+  4.0
+ ],
+ "why": [
+  "lower tube clear, upper tube obscured by fat/hole",
+  "yellow fat and fibrous tissue over the triangle",
+  "no bare liver strip; gallbladder not lifted off liver"
+ ],
+ "instruments": "white-handled dissecting instrument touching liver surface; none at a duct or vessel",
+ "view": "clear",
+ "seconds": 19.8
+}

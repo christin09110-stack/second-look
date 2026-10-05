@@ -1,0 +1,17 @@
+{
+ "file": "sages-280aaeb3-065.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  1.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "no two distinct clear tubes at neck",
+  "fat/fibrous tissue fills the triangle",
+  "single smooth surface, no bare liver strip"
+ ],
+ "instruments": "crocodile grasper at left edge; no clip applier or scissors clearly at a duct/vessel",
+ "view": "blurred",
+ "seconds": 9.9
+}

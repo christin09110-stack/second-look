@@ -1,0 +1,17 @@
+{
+ "file": "sages-144fef8d-065.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "one pale tube seen diagonally, second tube not distinct or clear of tissue",
+  "yellow fat and fibrous web fill the triangle over/between the tubes",
+  "gallbladder not lifted, no bare cystic-plate strip between it and liver"
+ ],
+ "instruments": "grasper/clip-applier jaws at left edge, dissecting instrument at top; none clearly at a duct or vessel",
+ "view": "clear",
+ "seconds": 13.2
+}

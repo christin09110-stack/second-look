@@ -1,0 +1,17 @@
+{
+ "file": "sages-0041dfb1-080.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  1.0,
+  0.0,
+  1.0
+ ],
+ "why": [
+  "duct and artery hidden under omental fat, no tubes seen at neck",
+  "triangle completely covered by fat and adhesions, not dissected",
+  "gallbladder still attached to liver, no cystic plate exposed"
+ ],
+ "instruments": "metallic grasper gripping gallbladder body; second shaft lower left; no clip applier or scissors at duct/vessel",
+ "view": "clear, minor blood at lower left",
+ "seconds": 21.7
+}

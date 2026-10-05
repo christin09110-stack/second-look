@@ -1,0 +1,17 @@
+{
+ "file": "train-190-0659.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  1.0,
+  6.0
+ ],
+ "why": [
+  "one tube at instrument tip, second obscured by fat",
+  "yellow fat and fibrous tissue fill the triangle",
+  "gallbladder retracted up, bare liver surface below"
+ ],
+ "instruments": "dark grasper/suction instrument at a duct; clip applier or scissors not identifiable",
+ "view": "clear",
+ "seconds": 11.9
+}

@@ -1,0 +1,17 @@
+{
+ "file": "sages-0041dfb1-060.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  1.0,
+  0.0,
+  2.0
+ ],
+ "why": [
+  "no separate duct or artery seen, only bloody tissue at neck",
+  "triangle unopened, fat and blood cover the area",
+  "gallbladder still attached to liver bed, no cystic plate strip"
+ ],
+ "instruments": "suction/irrigator tip at bloody neck dissection; no clip applier or scissors",
+ "view": "bloody",
+ "seconds": 16.7
+}

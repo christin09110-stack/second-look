@@ -1,0 +1,17 @@
+{
+ "file": "endoscapes-194-0256.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  1.0,
+  0.0,
+  2.0
+ ],
+ "why": [
+  "no two separate tubes identifiable; neck region buried in fat and fibrous tissue",
+  "abundant yellow fat and fibrous tissue covers the triangle, no cleared window",
+  "gallbladder retracted up-left but no clean bare liver strip, dark dissected tissue instead"
+ ],
+ "instruments": "grasper holding gallbladder upper left; clip applier tip in fat near neck, not clearly on a duct or vessel",
+ "view": "clear",
+ "seconds": 18.4
+}

@@ -1,0 +1,17 @@
+{
+ "file": "sages-e60de21a-080.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  1.0,
+  3.0
+ ],
+ "why": [
+  "one pale tube only; second tube not distinct or clear",
+  "yellow fat and tissue over the triangle, not clean",
+  "dark liver seen but no clear bare strip between lifted GB"
+ ],
+ "instruments": "grasper/dissector at a duct/neck; no clip applier or scissors identifiable",
+ "view": "clear",
+ "seconds": 15.9
+}

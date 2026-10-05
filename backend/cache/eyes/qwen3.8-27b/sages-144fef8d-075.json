@@ -1,0 +1,17 @@
+{
+ "file": "sages-144fef8d-075.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  2.0,
+  2.0
+ ],
+ "why": [
+  "neck buried in fat, only one tube discernible",
+  "yellow fat/fibrous tissue over the triangle",
+  "gallbladder not lifted, no bare liver strip"
+ ],
+ "instruments": "single metallic grasper/clip-applier tip at left edge, not clearly at a duct or vessel",
+ "view": "clear",
+ "seconds": 8.1
+}

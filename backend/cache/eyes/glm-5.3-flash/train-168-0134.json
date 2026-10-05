@@ -1,0 +1,17 @@
+{
+ "file": "train-168-0134.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  3.0,
+  2.0,
+  3.0
+ ],
+ "why": [
+  "window dissected but duct and artery not seen as two separate clear tubes",
+  "yellow fibrofatty tissue still covers triangle around the window",
+  "gallbladder not lifted off liver; liver only glimpsed through small window, no bare plate strip"
+ ],
+ "instruments": "L-hook dissector on right near the window (not clearly on duct/vessel); metallic grasper tip at left edge",
+ "view": "clear",
+ "seconds": 56.3
+}

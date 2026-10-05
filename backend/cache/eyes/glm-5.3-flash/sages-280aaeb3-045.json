@@ -1,0 +1,17 @@
+{
+ "file": "sages-280aaeb3-045.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  1.0,
+  0.0,
+  1.0
+ ],
+ "why": [
+  "no two tubes at gallbladder neck visible; view dominated by bowel loop",
+  "hepatocystic triangle not identifiable, fibrofatty tissue covers upper field",
+  "no lifted gallbladder or bare cystic plate strip seen"
+ ],
+ "instruments": "dark grasper shaft at left edge (crocodile grasper per overlay), not at duct or vessel; no clip applier or scissors",
+ "view": "smoky",
+ "seconds": 36.1
+}

@@ -1,0 +1,17 @@
+{
+ "file": "sages-0041dfb1-070.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  2.0,
+  3.0
+ ],
+ "why": [
+  "neck obscured by instruments, no two distinct clear tubes",
+  "yellow fat/fibrous tissue filling the triangle",
+  "gallbladder retracted but no bare cystic-plate strip seen"
+ ],
+ "instruments": "metallic clip-applier-type instrument from upper right and a gray-shafted grasper from lower left, both at the gallbladder neck; cannot confirm a clip applier or scissors is on a duct/vessel",
+ "view": "clear",
+ "seconds": 12.5
+}

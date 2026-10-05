@@ -1,0 +1,17 @@
+{
+ "file": "sages-280aaeb3-075.jpg",
+ "model": "moonshotai/Kimi-K2.6",
+ "scores": [
+  0.0,
+  0.0,
+  0.0
+ ],
+ "why": [
+  "field obscured by blood, no duct or artery identifiable",
+  "hepatocystic triangle not visible, heavy bleeding and obscured tissue",
+  "gallbladder and cystic plate not discernible through blood"
+ ],
+ "instruments": "none visible",
+ "view": "bloody and obscured",
+ "seconds": 17.6
+}

@@ -1,0 +1,17 @@
+{
+ "file": "endoscapes-163-0244.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  1.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "no two distinct tubes, confluent neck tissue",
+  "fat and fibrous tissue with blood in triangle",
+  "gallbladder not lifted, no bare liver strip"
+ ],
+ "instruments": "clip applier at gallbladder neck; no clear duct or vessel",
+ "view": "clear, slight blood",
+ "seconds": 12.5
+}

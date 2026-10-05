@@ -1,0 +1,17 @@
+{
+ "file": "sages-144fef8d-040.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  1.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "only one pale tube seen, no two distinct clear tubes",
+  "yellow fat/fibrous tissue over triangle, not clean",
+  "no bare liver strip, gallbladder not lifted"
+ ],
+ "instruments": "one dark instrument shaft at the neck tissue; cannot tell if clip applier or scissors",
+ "view": "blurred",
+ "seconds": 8.0
+}

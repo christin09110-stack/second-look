@@ -1,0 +1,17 @@
+{
+ "file": "train-168-0199.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  2.0,
+  6.0
+ ],
+ "why": [
+  "neck not dissected; no two separate clear tubes",
+  "triangle obscured by gallbladder; tissue/fat present",
+  "gallbladder retracted, bare liver edge visible"
+ ],
+ "instruments": "open jawed instrument (clip applier/grasper) at left, white-tipped dissector at top right; none at a duct or vessel",
+ "view": "clear",
+ "seconds": 21.9
+}

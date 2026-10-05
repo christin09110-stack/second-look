@@ -1,0 +1,17 @@
+{
+ "file": "sages-280aaeb3-085.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  0.0,
+  0.0,
+  0.0
+ ],
+ "why": [
+  "no cystic duct or artery seen as separate tubes; field shows a distant smooth organ, not the GB neck",
+  "hepatocystic triangle not in view; only fat-covered tissue and bowel-like surface visible",
+  "no lifted gallbladder or bare liver cystic plate visible"
+ ],
+ "instruments": "Crocodile Grasper and Medium-large Clip Applier in field; neither clearly at a duct or vessel",
+ "view": "dark and blurred",
+ "seconds": 18.7
+}

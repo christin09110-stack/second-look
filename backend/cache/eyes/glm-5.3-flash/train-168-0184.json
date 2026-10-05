@@ -1,0 +1,17 @@
+{
+ "file": "train-168-0184.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  0.0,
+  0.0,
+  0.0
+ ],
+ "why": [
+  "no cystic duct or artery in view; frame shows omental fat and bowel, not the gallbladder neck",
+  "hepatocystic triangle not visible at all; only fat, bowel and a liver edge on the left",
+  "gallbladder not seen, so no lifted gallbladder or bare cystic plate"
+ ],
+ "instruments": "none identifiable; a blurred white object in the upper left, possibly an out-of-focus instrument or abdominal wall",
+ "view": "clear, with a large white blur obscuring the upper left corner",
+ "seconds": 9.7
+}

@@ -1,0 +1,17 @@
+{
+ "file": "sages-0041dfb1-055.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  2.0,
+  1.0,
+  5.0
+ ],
+ "why": [
+  "neck region bloody, no two distinct tubes seen clear of tissue",
+  "fat and bloody fibrous tissue still fill the triangle",
+  "some bare liver visible below gallbladder but neck dissection incomplete and bloodied"
+ ],
+ "instruments": "suction/irrigation cannula tip at gallbladder neck dissection; no clip applier or scissors",
+ "view": "clear with local blood at dissection site",
+ "seconds": 33.9
+}

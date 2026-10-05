@@ -1,0 +1,17 @@
+{
+ "file": "endoscapes-194-0266.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  2.0,
+  1.0,
+  4.0
+ ],
+ "why": [
+  "one possible tubular structure near neck, no two clearly separate tubes",
+  "fibrous and fatty tissue still covers the triangle, dissection incomplete",
+  "gallbladder lifted with some liver visible but bare cystic plate not clearly shown"
+ ],
+ "instruments": "grasper on gallbladder fundus, dissector/hook at gallbladder neck, no clip applier or scissors",
+ "view": "clear",
+ "seconds": 18.0
+}

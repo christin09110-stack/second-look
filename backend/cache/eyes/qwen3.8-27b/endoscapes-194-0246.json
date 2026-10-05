@@ -1,0 +1,17 @@
+{
+ "file": "endoscapes-194-0246.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  2.0,
+  4.0
+ ],
+ "why": [
+  "one fat-covered tube, second not distinct",
+  "fibrous tissue and clip fill the triangle",
+  "gallbladder lifted but no clear bare liver strip"
+ ],
+ "instruments": "single instrument tip at left edge; not at a duct or vessel",
+ "view": "clear",
+ "seconds": 11.3
+}

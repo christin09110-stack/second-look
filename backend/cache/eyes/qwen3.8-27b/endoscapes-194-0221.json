@@ -1,0 +1,17 @@
+{
+ "file": "endoscapes-194-0221.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  4.0,
+  3.0,
+  7.0
+ ],
+ "why": [
+  "one clear tube (cystic duct); second tube not distinct or clear of tissue",
+  "residual fat/fibrous tissue over upper triangle, not just two tubes",
+  "gallbladder lifted, bare liver strip visible below"
+ ],
+ "instruments": "clip applier (left) holding gallbladder-neck tissue; second instrument (right, gray shaft) with tip at a tube in the triangle; cannot confirm whether a clip applier or scissors is at a duct",
+ "view": "clear",
+ "seconds": 20.7
+}

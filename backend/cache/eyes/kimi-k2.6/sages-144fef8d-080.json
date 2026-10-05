@@ -1,0 +1,17 @@
+{
+ "file": "sages-144fef8d-080.jpg",
+ "model": "moonshotai/Kimi-K2.6",
+ "scores": [
+  1.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "no two separate tubular structures identifiable",
+  "fibrofatty and fibrous tissue remains throughout triangle",
+  "tissue still adherent to liver with no clear bare cystic plate strip"
+ ],
+ "instruments": "grasper only, none at duct or vessel",
+ "view": "dark and obscured by adhesions",
+ "seconds": 66.6
+}

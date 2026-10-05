@@ -1,0 +1,17 @@
+{
+ "file": "sages-e60de21a-040.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "no two distinct tubes; neck obscured by tissue",
+  "fat/fibrous tissue fills the triangle",
+  "gallbladder held but no bare liver strip"
+ ],
+ "instruments": "grasper holding gallbladder; clip applier in triangle, not at a visible duct/vessel (none)",
+ "view": "clear",
+ "seconds": 16.4
+}

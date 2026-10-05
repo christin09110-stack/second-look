@@ -1,0 +1,17 @@
+{
+ "file": "sages-0041dfb1-040.jpg",
+ "model": "moonshotai/Kimi-K2.6",
+ "scores": [
+  2.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "no two separate clear tubes visible",
+  "fat and fibrous tissue remain in triangle",
+  "no distinct bare cystic plate strip seen"
+ ],
+ "instruments": "grasper and blue dissecting instrument; none identifiable as clip applier or scissors at duct or vessel",
+ "view": "clear",
+ "seconds": 39.6
+}

@@ -1,0 +1,17 @@
+{
+ "file": "sages-e60de21a-055.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  1.0,
+  2.0,
+  2.0
+ ],
+ "why": [
+  "no two distinct tubes entering gallbladder neck identified; only fibrous strands in dissected window",
+  "fibrous and fatty tissue clearly remains over and around the dissected area",
+  "liver visible but gallbladder not lifted; no bare cystic plate strip demonstrated"
+ ],
+ "instruments": "grasper/dissector manipulating tissue near gallbladder; second instrument shaft crossing field; no clip applier or scissors at duct or vessel",
+ "view": "clear",
+ "seconds": 27.9
+}

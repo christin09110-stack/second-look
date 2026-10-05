@@ -1,0 +1,17 @@
+{
+ "file": "sages-280aaeb3-075.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  1.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "two separate tubes not discernible in dark, wide view",
+  "hepatocystic triangle not exposed; tissue/obscured",
+  "no clear bare-liver strip between lifted GB and liver"
+ ],
+ "instruments": "Crocodile grasper and medium-large clip applier per on-screen labels; neither seen at a duct or vessel (none)",
+ "view": "blurred",
+ "seconds": 9.1
+}

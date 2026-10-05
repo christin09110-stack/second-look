@@ -1,0 +1,17 @@
+{
+ "file": "train-190-0654.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  2.0,
+  6.0
+ ],
+ "why": [
+  "only one pale tube at the right instrument tip; no second clear tube",
+  "fat/fibrous tissue still over and between the triangle",
+  "strip of bare liver visible below the lifted gallbladder, not pristine"
+ ],
+ "instruments": "clip applier (left) and a suction/cautery (right, dark shaft, white tip); none at a duct or vessel",
+ "view": "clear",
+ "seconds": 14.9
+}

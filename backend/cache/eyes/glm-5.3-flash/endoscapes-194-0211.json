@@ -1,0 +1,17 @@
+{
+ "file": "endoscapes-194-0211.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  1.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "no two separate tubes entering a gallbladder neck are identifiable",
+  "triangle not delineated; yellowish fat still covers the area",
+  "no bare liver strip; gallbladder not lifted off liver bed"
+ ],
+ "instruments": "suction/irrigator or blunt dissector from the right, tip near dissected tissue at liver edge; no clip applier or scissors at duct or vessel",
+ "view": "clear",
+ "seconds": 21.1
+}

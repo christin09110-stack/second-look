@@ -1,0 +1,17 @@
+{
+ "file": "endoscapes-163-0249.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  0.0,
+  0.0,
+  1.0
+ ],
+ "why": [
+  "no separate duct or artery seen; neck buried in inflamed tissue",
+  "triangle obscured by edematous exudate and filmy adhesions",
+  "gallbladder still adherent to liver by filmy membrane, no bare plate"
+ ],
+ "instruments": "none visible",
+ "view": "clear",
+ "seconds": 10.6
+}

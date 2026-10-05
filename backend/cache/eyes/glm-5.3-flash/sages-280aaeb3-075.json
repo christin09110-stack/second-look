@@ -1,0 +1,17 @@
+{
+ "file": "sages-280aaeb3-075.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  1.0,
+  2.0,
+  1.0
+ ],
+ "why": [
+  "two separate tubes not identifiable in dark, poorly exposed view",
+  "triangle not delineated; yellowish fat still covers the area",
+  "no bare liver strip visible; gallbladder not lifted off liver"
+ ],
+ "instruments": "on-screen labels show crocodile grasper and medium-large clip applier; clip applier not visibly at duct or vessel",
+ "view": "dark and blurred",
+ "seconds": 14.7
+}

@@ -1,0 +1,17 @@
+{
+ "file": "endoscapes-194-0231.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  2.0,
+  1.0,
+  3.0
+ ],
+ "why": [
+  "no two clearly separated tubes at gallbladder neck; tissue still obscures",
+  "yellow fat and fibrous tissue still fill the triangle",
+  "liver seen but no clear bare cystic plate strip; gallbladder not lifted"
+ ],
+ "instruments": "grasper on gallbladder neck; no clip applier or scissors at duct/vessel",
+ "view": "clear",
+ "seconds": 15.0
+}

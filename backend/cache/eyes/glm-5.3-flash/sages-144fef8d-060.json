@@ -1,0 +1,17 @@
+{
+ "file": "sages-144fef8d-060.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  2.0,
+  3.0,
+  3.0
+ ],
+ "why": [
+  "dissected window present but no two clearly separate tubes entering gallbladder neck",
+  "yellow fibrous/fatty strands still fill the triangle window",
+  "gallbladder not lifted; no bare liver strip, tissue still bridges to liver"
+ ],
+ "instruments": "cautery hook dissecting near gallbladder neck; metallic grasper/clip-applier tip at left edge, not clearly on duct or vessel",
+ "view": "clear, slightly smoky near hook tip",
+ "seconds": 21.2
+}

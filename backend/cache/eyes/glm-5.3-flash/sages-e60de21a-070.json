@@ -1,0 +1,17 @@
+{
+ "file": "sages-e60de21a-070.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  3.0,
+  2.0,
+  5.0
+ ],
+ "why": [
+  "one whitish duct-like tube seen, but no separate artery and fibrous strands still surround it",
+  "fibrous strands cross the window and yellow fat remains at the triangle's edge",
+  "gallbladder lifted with liver behind, but no clear bare cystic plate strip yet"
+ ],
+ "instruments": "grasper on gallbladder (left), serrated dissector/scissors near the dissected window (right); no clip applier, not clearly at duct or vessel",
+ "view": "clear",
+ "seconds": 22.4
+}

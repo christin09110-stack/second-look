@@ -1,0 +1,17 @@
+{
+ "file": "sages-280aaeb3-055.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  1.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "no two distinct tubes seen at GB neck",
+  "triangle obscured, fat/fibrous tissue present",
+  "GB not lifted, no bare liver strip visible"
+ ],
+ "instruments": "none at a duct/vessel (UI lists crocodile grasper, not seen in field)",
+ "view": "blurred/dark",
+ "seconds": 8.1
+}

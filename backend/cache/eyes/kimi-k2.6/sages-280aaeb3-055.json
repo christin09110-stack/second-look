@@ -1,0 +1,17 @@
+{
+ "file": "sages-280aaeb3-055.jpg",
+ "model": "moonshotai/Kimi-K2.6",
+ "scores": [
+  0.0,
+  0.0,
+  0.0
+ ],
+ "why": [
+  "bloody obscured field, two separate tubes not identifiable",
+  "hepatocystic triangle covered by blood and tissue",
+  "no bare cystic plate visible between gallbladder and liver"
+ ],
+ "instruments": "Crocodile Grasper; no clip applier or scissors visible at duct or vessel",
+ "view": "bloody and obscured",
+ "seconds": 19.4
+}

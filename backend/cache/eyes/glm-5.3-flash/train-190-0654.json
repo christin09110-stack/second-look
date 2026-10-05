@@ -1,0 +1,17 @@
+{
+ "file": "train-190-0654.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  2.0,
+  2.0,
+  5.0
+ ],
+ "why": [
+  "no two distinct tubes seen entering GB neck; fat-covered dissection field",
+  "abundant fat and fibrous tissue still covering the triangle",
+  "GB partially lifted with some liver bed showing, but strip not fully clear"
+ ],
+ "instruments": "grasper holding GB (left), hook dissector dissecting near neck (right); small clip visible near hook tip, no clip applier or scissors at duct/vessel",
+ "view": "clear",
+ "seconds": 18.6
+}

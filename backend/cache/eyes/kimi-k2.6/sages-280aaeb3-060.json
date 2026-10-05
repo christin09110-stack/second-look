@@ -1,0 +1,17 @@
+{
+ "file": "sages-280aaeb3-060.jpg",
+ "model": "moonshotai/Kimi-K2.6",
+ "scores": [
+  0.0,
+  0.0,
+  0.0
+ ],
+ "why": [
+  "no cystic duct or artery seen as separate clear tubes",
+  "triangle obscured by blood and fatty tissue",
+  "no lifted gallbladder or bare cystic plate visible"
+ ],
+ "instruments": "crocodile grasper at top, no second instrument",
+ "view": "bloody and obscured",
+ "seconds": 54.1
+}

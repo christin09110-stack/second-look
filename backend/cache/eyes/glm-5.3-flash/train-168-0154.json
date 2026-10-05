@@ -1,0 +1,17 @@
+{
+ "file": "train-168-0154.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  0.0,
+  0.0,
+  0.0
+ ],
+ "why": [
+  "duct and artery not in view; only liver edge and fatty tissue at frame margin",
+  "hepatocystic triangle not visible, fat-covered tissue at edge",
+  "no gallbladder lift or cystic plate visible, just bare liver surface"
+ ],
+ "instruments": "none visible",
+ "view": "clear",
+ "seconds": 8.8
+}

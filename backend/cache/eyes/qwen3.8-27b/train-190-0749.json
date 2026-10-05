@@ -1,0 +1,17 @@
+{
+ "file": "train-190-0749.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  2.0,
+  6.0
+ ],
+ "why": [
+  "no two clear separate tubes; neck obscured by tissue and instrument",
+  "yellow fat and fibrous tissue still over/between the triangle",
+  "smooth bare liver strip visible below the lifted gallbladder"
+ ],
+ "instruments": "grasper on left holding the gallbladder neck; dark clip applier/scissors on right pointing into the triangle \u2013 cannot tell if it is on a duct or vessel",
+ "view": "clear",
+ "seconds": 13.2
+}

@@ -1,0 +1,17 @@
+{
+ "file": "train-190-0729.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  1.0,
+  1.0,
+  5.0
+ ],
+ "why": [
+  "no two separate tubes seen; neck buried in fat",
+  "abundant fat and fibrous tissue fill the triangle",
+  "gallbladder lifted, liver strip partly seen but not cleanly bare"
+ ],
+ "instruments": "grasper holding gallbladder; no clip applier or scissors at duct/vessel",
+ "view": "clear",
+ "seconds": 28.6
+}

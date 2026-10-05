@@ -1,0 +1,17 @@
+{
+ "file": "sages-0041dfb1-085.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  1.0,
+  0.0,
+  2.0
+ ],
+ "why": [
+  "duct and artery not discernible; neck obscured by grasper and fat",
+  "hepatocystic triangle covered by yellow omental fat, not dissected",
+  "gallbladder grasped but still on liver bed, no bare cystic plate strip"
+ ],
+ "instruments": "metallic grasper crossing field grasping gallbladder infundibulum with slight bleeding; dark marked instrument lower left; no clip applier or scissors at duct/vessel",
+ "view": "clear, minor blood at grasp site",
+ "seconds": 16.5
+}

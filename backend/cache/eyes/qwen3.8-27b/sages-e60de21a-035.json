@@ -1,0 +1,17 @@
+{
+ "file": "sages-e60de21a-035.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  1.0,
+  3.0
+ ],
+ "why": [
+  "no two distinct clear tubes",
+  "yellow fat and fibrous tissue over triangle",
+  "no clear bare liver strip"
+ ],
+ "instruments": "grasper (left) and clip applier (right); none clearly at a duct or vessel",
+ "view": "blurred",
+ "seconds": 16.6
+}

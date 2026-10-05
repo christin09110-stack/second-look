@@ -1,0 +1,17 @@
+{
+ "file": "sages-0041dfb1-080.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  1.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "no two distinct clear tubes; neck obscured by instruments and fat",
+  "yellow fat and fibrous tissue fill the triangle",
+  "gallbladder not lifted; no bare liver strip between it and liver"
+ ],
+ "instruments": "two instruments (smooth metallic shaft top-right, thin-tipped instrument bottom-left); none clearly at a duct or vessel",
+ "view": "clear",
+ "seconds": 9.9
+}

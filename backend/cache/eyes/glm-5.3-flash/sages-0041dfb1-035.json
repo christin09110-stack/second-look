@@ -1,0 +1,17 @@
+{
+ "file": "sages-0041dfb1-035.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  1.0,
+  0.0,
+  1.0
+ ],
+ "why": [
+  "no distinct duct or artery seen, only bleeding tissue at neck",
+  "fat and fibrous tissue fill triangle, dissection just started",
+  "gallbladder still attached, no bare cystic plate strip"
+ ],
+ "instruments": "grasper at gallbladder neck, blue dissector/suction nearby, no clip applier or scissors",
+ "view": "bloody",
+ "seconds": 10.4
+}

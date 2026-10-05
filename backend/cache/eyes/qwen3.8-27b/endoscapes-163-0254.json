@@ -1,0 +1,17 @@
+{
+ "file": "endoscapes-163-0254.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  1.0,
+  3.0
+ ],
+ "why": [
+  "one pale tube grasped, second tube not distinct",
+  "fibrous/fat tissue still over and between tubes",
+  "liver seen right but no clear bare strip under GB"
+ ],
+ "instruments": "clip applier top-left grasping a tube; second instrument (clip applier/scissors) bottom-right at a duct/vessel",
+ "view": "clear",
+ "seconds": 10.3
+}

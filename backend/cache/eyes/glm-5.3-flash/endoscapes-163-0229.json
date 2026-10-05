@@ -1,0 +1,17 @@
+{
+ "file": "endoscapes-163-0229.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  0.0,
+  0.0,
+  1.0
+ ],
+ "why": [
+  "no distinct duct or artery visible; neck buried in fat and fibrous tissue mid-dissection",
+  "hepatocystic triangle covered with fat, adhesions and bloody fibrous tissue",
+  "gallbladder still attached to liver, no bare cystic plate strip exposed"
+ ],
+ "instruments": "grasper on gallbladder upper left; L-hook dissector dissecting at gallbladder neck; no clip applier or scissors at duct or vessel",
+ "view": "bloody",
+ "seconds": 17.3
+}

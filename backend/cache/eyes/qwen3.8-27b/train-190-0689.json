@@ -1,0 +1,17 @@
+{
+ "file": "train-190-0689.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  2.0,
+  6.0
+ ],
+ "why": [
+  "one pale tube to lower right; second tube not seen clear of tissue",
+  "yellow fat and fibrous tissue still over/between the structures",
+  "gallbladder lifted, smooth bare liver strip at lower left"
+ ],
+ "instruments": "blunt-tipped dissector at the duct; retractor/grasper at left edge; no clip applier or scissors identifiable at a duct",
+ "view": "clear",
+ "seconds": 10.4
+}

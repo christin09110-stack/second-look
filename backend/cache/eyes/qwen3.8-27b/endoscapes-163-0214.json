@@ -1,0 +1,17 @@
+{
+ "file": "endoscapes-163-0214.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "only one pale tube at lower left, no two clear ducts",
+  "fat, fibrous strands and an open hole fill the triangle",
+  "gallbladder not retracted, no bare liver strip between it and liver"
+ ],
+ "instruments": "white-tipped blunt dissector on the right near the liver edge; no clip applier or scissors clearly at a duct or vessel",
+ "view": "clear",
+ "seconds": 17.0
+}

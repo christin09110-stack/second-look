@@ -1,0 +1,17 @@
+{
+ "file": "train-190-0684.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  1.0,
+  1.0,
+  6.0
+ ],
+ "why": [
+  "no two distinct tubes, neck obscured by tissue",
+  "fat and fibrous tissue fill the triangle",
+  "gallbladder lifted by grasper, bare liver strip below"
+ ],
+ "instruments": "grasper (left) and hook/dissecting instrument (right); none at a duct or vessel identifiable",
+ "view": "clear",
+ "seconds": 9.3
+}

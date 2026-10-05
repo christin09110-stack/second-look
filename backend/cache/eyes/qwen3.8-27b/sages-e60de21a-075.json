@@ -1,0 +1,17 @@
+{
+ "file": "sages-e60de21a-075.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  1.0,
+  3.0
+ ],
+ "why": [
+  "one pale tube only; second structure buried in fat",
+  "yellow fat and fibrous tissue over the triangle",
+  "liver seen but no clear bare strip under lifted GB"
+ ],
+ "instruments": "dark grasper/clip-applier shaft at upper structure; cannot confirm it is at a duct or vessel",
+ "view": "clear",
+ "seconds": 10.5
+}

@@ -1,0 +1,17 @@
+{
+ "file": "train-168-0169.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  0.0,
+  0.0,
+  1.0
+ ],
+ "why": [
+  "no distinct duct or artery tubes seen",
+  "triangle not opened, fat/fibrous tissue present",
+  "gallbladder not lifted, no bare plate strip"
+ ],
+ "instruments": "none visible",
+ "view": "clear",
+ "seconds": 8.1
+}

@@ -1,0 +1,17 @@
+{
+ "file": "endoscapes-194-0241.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  1.0,
+  3.0
+ ],
+ "why": [
+  "one duct-like tube at base, no two clear separate tubes",
+  "whitish fibrous tissue and dark hole fill the triangle",
+  "gallbladder held by grasper but no clear bare liver strip"
+ ],
+ "instruments": "grasper on gallbladder body; no clip applier or scissors at a duct or vessel",
+ "view": "clear",
+ "seconds": 12.4
+}

@@ -1,0 +1,17 @@
+{
+ "file": "train-190-0704.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  2.0,
+  2.0,
+  2.0
+ ],
+ "why": [
+  "duct area still buried in fat; no two separate tubes seen",
+  "fat and fibrous tissue still fill the triangle",
+  "gallbladder not lifted off liver; no bare cystic plate strip"
+ ],
+ "instruments": "L-hook cautery dissecting at the gallbladder neck; no clip applier or scissors",
+ "view": "clear",
+ "seconds": 19.0
+}

@@ -1,0 +1,123 @@
+{
+ "case": "sages-e60de21a",
+ "decision": {
+  "frames": [
+   {
+    "i": 0,
+    "c1": "not_met",
+    "c2": "not_met",
+    "c3": "not_met",
+    "action": "silent",
+    "note": "All three criteria not met."
+   },
+   {
+    "i": 1,
+    "c1": "not_met",
+    "c2": "not_met",
+    "c3": "not_met",
+    "action": "silent",
+    "note": "All three criteria not met."
+   },
+   {
+    "i": 2,
+    "c1": "not_met",
+    "c2": "not_met",
+    "c3": "not_met",
+    "action": "silent",
+    "note": "All three criteria not met."
+   },
+   {
+    "i": 3,
+    "c1": "not_met",
+    "c2": "not_met",
+    "c3": "not_met",
+    "action": "silent",
+    "note": "All three criteria not met."
+   },
+   {
+    "i": 4,
+    "c1": "not_met",
+    "c2": "not_met",
+    "c3": "not_met",
+    "action": "silent",
+    "note": "All three criteria not met."
+   },
+   {
+    "i": 5,
+    "c1": "not_met",
+    "c2": "met",
+    "c3": "not_met",
+    "action": "log",
+    "note": "Triangle cleared; duct/artery missing; plate missing."
+   },
+   {
+    "i": 6,
+    "c1": "not_met",
+    "c2": "met",
+    "c3": "not_met",
+    "action": "silent",
+    "note": "Triangle cleared; duct/artery missing; plate missing."
+   },
+   {
+    "i": 7,
+    "c1": "met",
+    "c2": "met",
+    "c3": "not_met",
+    "action": "log",
+    "note": "Cystic duct and artery visible."
+   },
+   {
+    "i": 8,
+    "c1": "met",
+    "c2": "met",
+    "c3": "not_met",
+    "action": "silent",
+    "note": "Duct/artery and triangle ok; plate not exposed."
+   },
+   {
+    "i": 9,
+    "c1": "met",
+    "c2": "met",
+    "c3": "met",
+    "action": "log",
+    "note": "Cystic plate exposed."
+   },
+   {
+    "i": 10,
+    "c1": "met",
+    "c2": "met",
+    "c3": "met",
+    "action": "silent",
+    "note": "All three criteria met."
+   },
+   {
+    "i": 11,
+    "c1": "met",
+    "c2": "met",
+    "c3": "met",
+    "action": "silent",
+    "note": "All three criteria met."
+   }
+  ],
+  "gate": {
+   "verdict": "clear",
+   "c1": "met",
+   "c2": "met",
+   "c3": "met",
+   "message": "Clear: all three criteria met."
+  }
+ },
+ "audit": {
+  "verdict": "clear",
+  "changed": false,
+  "debrief": "All three critical safety criteria were fully confirmed completely at the final frame today. No further exposure of the cystic duct or plate is required at this very moment now."
+ },
+ "models": {
+  "eyes": [
+   "Qwen/Qwen3.8-27B",
+   "zai-org/GLM-5.3-Flash"
+  ],
+  "gate": "nvidia/nemotron-3-super-120b-a12b",
+  "audit": "nvidia/Nemotron-3-Ultra-550b-a55b"
+ }
+}

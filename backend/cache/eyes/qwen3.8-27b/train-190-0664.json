@@ -1,0 +1,17 @@
+{
+ "file": "train-190-0664.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  3.0,
+  7.0
+ ],
+ "why": [
+  "one confluent horizontal tube, no two separate clear tubes",
+  "fibrous/fatty tissue still over and between structures in triangle",
+  "gallbladder lifted, bare liver strip visible below"
+ ],
+ "instruments": "grasper/forceps on left holding gallbladder; white-tipped dissecting instrument on right at the duct/vessel; no clip applier or scissors identifiable",
+ "view": "clear",
+ "seconds": 12.2
+}

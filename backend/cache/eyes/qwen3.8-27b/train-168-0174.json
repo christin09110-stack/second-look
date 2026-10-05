@@ -1,0 +1,17 @@
+{
+ "file": "train-168-0174.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  1.0,
+  1.0,
+  1.0
+ ],
+ "why": [
+  "instrument shaft blocks neck; no two clear tubes",
+  "yellow fat and tissue fill triangle; obscured",
+  "no bare liver strip; fat in gap"
+ ],
+ "instruments": "large metallic shaft (clip applier/grasper) lying across field; not clearly at a duct or vessel",
+ "view": "blurred",
+ "seconds": 7.1
+}

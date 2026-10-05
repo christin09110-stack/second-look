@@ -1,0 +1,17 @@
+{
+ "file": "sages-0041dfb1-045.jpg",
+ "model": "moonshotai/Kimi-K2.6",
+ "scores": [
+  2.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "no two separate clear tubes visible",
+  "fat and fibrous tissue fill triangle",
+  "gallbladder remains in liver fossa"
+ ],
+ "instruments": "grasper and blue suction/dissecting instrument; no clip applier or scissors at duct or vessel",
+ "view": "clear but bloody",
+ "seconds": 29.5
+}

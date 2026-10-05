@@ -1,0 +1,17 @@
+{
+ "file": "endoscapes-194-0221.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  2.0,
+  1.0,
+  3.0
+ ],
+ "why": [
+  "tubular structures obscured by fat, no two separate tubes clear",
+  "thick fibrofatty tissue still covers the triangle",
+  "small dark liver window but no clear cystic plate strip"
+ ],
+ "instruments": "grasper on left holding tissue, blunt dissector/suction from right near dissection; no clip applier or scissors at duct",
+ "view": "clear",
+ "seconds": 19.5
+}

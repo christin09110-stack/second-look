@@ -1,0 +1,17 @@
+{
+ "file": "train-190-0679.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  2.0,
+  2.0,
+  6.0
+ ],
+ "why": [
+  "only one tube (likely duct) visible; no separate artery, tissue still around it",
+  "fibrofatty tissue still covers the triangle around the tube",
+  "gallbladder lifted up, bare liver bed visible behind dissection"
+ ],
+ "instruments": "grasper holding gallbladder tissue; hook dissector at the tube; no clip applier or scissors",
+ "view": "clear",
+ "seconds": 18.4
+}

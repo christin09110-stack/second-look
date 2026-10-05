@@ -1,0 +1,17 @@
+{
+ "file": "train-190-0719.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  2.0,
+  1.0,
+  5.0
+ ],
+ "why": [
+  "no two clearly dissected tubes entering gallbladder neck; tissue still envelops the area",
+  "yellow fat and fibrous strands still fill the triangle between neck and liver",
+  "gallbladder retracted with liver edge visible, but exposed strip not clearly bare plate"
+ ],
+ "instruments": "fenestrated grasper retracting gallbladder at left edge; no clip applier or scissors at duct or vessel",
+ "view": "clear",
+ "seconds": 18.6
+}

@@ -1,0 +1,17 @@
+{
+ "file": "sages-280aaeb3-045.jpg",
+ "model": "moonshotai/Kimi-K2.6",
+ "scores": [
+  1.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "no two separate tubes identifiable",
+  "triangle obscured by fat and fibrous tissue",
+  "cystic plate not clearly exposed between gallbladder and liver"
+ ],
+ "instruments": "crocodile grasper shaft visible superiorly; no clip applier or scissors at duct or vessel",
+ "view": "dark and obscured",
+ "seconds": 41.4
+}

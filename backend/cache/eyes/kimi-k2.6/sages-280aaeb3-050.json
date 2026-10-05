@@ -1,0 +1,17 @@
+{
+ "file": "sages-280aaeb3-050.jpg",
+ "model": "moonshotai/Kimi-K2.6",
+ "scores": [
+  0.0,
+  0.0,
+  0.0
+ ],
+ "why": [
+  "no separate duct or artery visible",
+  "triangle obscured by blood and tissue",
+  "no bare cystic plate visible"
+ ],
+ "instruments": "crocodile grasper, not at duct or vessel",
+ "view": "bloody and obscured",
+ "seconds": 27.2
+}

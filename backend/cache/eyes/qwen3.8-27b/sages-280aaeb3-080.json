@@ -1,0 +1,17 @@
+{
+ "file": "sages-280aaeb3-080.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "no two clear separate tubes at the neck",
+  "fibrous/fatty tissue still over the triangle",
+  "no bare liver strip between GB and liver"
+ ],
+ "instruments": "medium-large clip applier with open jaws near the triangle; crocodile grasper labeled but not clearly in field; clip applier not clearly on a duct or vessel",
+ "view": "blurred/dark",
+ "seconds": 8.4
+}

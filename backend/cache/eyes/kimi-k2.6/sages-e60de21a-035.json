@@ -1,0 +1,17 @@
+{
+ "file": "sages-e60de21a-035.jpg",
+ "model": "moonshotai/Kimi-K2.6",
+ "scores": [
+  1.0,
+  1.0,
+  1.0
+ ],
+ "why": [
+  "only one tubular structure seen, not two separate tubes",
+  "fat and fibrous tissue remain in the hepatocystic triangle",
+  "no bare cystic plate visible between the gallbladder and liver"
+ ],
+ "instruments": "two graspers; no clip applier or scissors at duct or vessel",
+ "view": "clear",
+ "seconds": 59.0
+}

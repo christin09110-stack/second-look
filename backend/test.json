@@ -1,0 +1,722 @@
+[
+ {
+  "case": "sages-e60de21a",
+  "t": 30,
+  "file": "sages-e60de21a-030.jpg",
+  "raters": [
+   0,
+   2,
+   1
+  ]
+ },
+ {
+  "case": "sages-e60de21a",
+  "t": 35,
+  "file": "sages-e60de21a-035.jpg",
+  "raters": [
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "case": "sages-e60de21a",
+  "t": 40,
+  "file": "sages-e60de21a-040.jpg",
+  "raters": [
+   0,
+   1,
+   0
+  ]
+ },
+ {
+  "case": "sages-e60de21a",
+  "t": 45,
+  "file": "sages-e60de21a-045.jpg",
+  "raters": [
+   0,
+   2,
+   1
+  ]
+ },
+ {
+  "case": "sages-e60de21a",
+  "t": 50,
+  "file": "sages-e60de21a-050.jpg",
+  "raters": [
+   0,
+   2,
+   1
+  ]
+ },
+ {
+  "case": "sages-e60de21a",
+  "t": 55,
+  "file": "sages-e60de21a-055.jpg",
+  "raters": [
+   0,
+   2,
+   1
+  ]
+ },
+ {
+  "case": "sages-e60de21a",
+  "t": 60,
+  "file": "sages-e60de21a-060.jpg",
+  "raters": [
+   0,
+   2,
+   1
+  ]
+ },
+ {
+  "case": "sages-e60de21a",
+  "t": 65,
+  "file": "sages-e60de21a-065.jpg",
+  "raters": [
+   3,
+   3,
+   2
+  ]
+ },
+ {
+  "case": "sages-e60de21a",
+  "t": 70,
+  "file": "sages-e60de21a-070.jpg",
+  "raters": [
+   0,
+   2,
+   1
+  ]
+ },
+ {
+  "case": "sages-e60de21a",
+  "t": 75,
+  "file": "sages-e60de21a-075.jpg",
+  "raters": [
+   3,
+   3,
+   2
+  ]
+ },
+ {
+  "case": "sages-e60de21a",
+  "t": 80,
+  "file": "sages-e60de21a-080.jpg",
+  "raters": [
+   3,
+   3,
+   2
+  ]
+ },
+ {
+  "case": "sages-e60de21a",
+  "t": 85,
+  "file": "sages-e60de21a-085.jpg",
+  "raters": [
+   3,
+   3,
+   2
+  ]
+ },
+ {
+  "case": "sages-144fef8d",
+  "t": 30,
+  "file": "sages-144fef8d-030.jpg",
+  "raters": [
+   1,
+   0,
+   1
+  ]
+ },
+ {
+  "case": "sages-144fef8d",
+  "t": 35,
+  "file": "sages-144fef8d-035.jpg",
+  "raters": [
+   1,
+   0,
+   1
+  ]
+ },
+ {
+  "case": "sages-144fef8d",
+  "t": 40,
+  "file": "sages-144fef8d-040.jpg",
+  "raters": [
+   0,
+   0,
+   1
+  ]
+ },
+ {
+  "case": "sages-144fef8d",
+  "t": 45,
+  "file": "sages-144fef8d-045.jpg",
+  "raters": [
+   2,
+   1,
+   1
+  ]
+ },
+ {
+  "case": "sages-144fef8d",
+  "t": 50,
+  "file": "sages-144fef8d-050.jpg",
+  "raters": [
+   2,
+   2,
+   1
+  ]
+ },
+ {
+  "case": "sages-144fef8d",
+  "t": 55,
+  "file": "sages-144fef8d-055.jpg",
+  "raters": [
+   2,
+   3,
+   1
+  ]
+ },
+ {
+  "case": "sages-144fef8d",
+  "t": 60,
+  "file": "sages-144fef8d-060.jpg",
+  "raters": [
+   2,
+   3,
+   1
+  ]
+ },
+ {
+  "case": "sages-144fef8d",
+  "t": 65,
+  "file": "sages-144fef8d-065.jpg",
+  "raters": [
+   3,
+   3,
+   1
+  ]
+ },
+ {
+  "case": "sages-144fef8d",
+  "t": 70,
+  "file": "sages-144fef8d-070.jpg",
+  "raters": [
+   3,
+   3,
+   1
+  ]
+ },
+ {
+  "case": "sages-144fef8d",
+  "t": 75,
+  "file": "sages-144fef8d-075.jpg",
+  "raters": [
+   3,
+   3,
+   1
+  ]
+ },
+ {
+  "case": "sages-144fef8d",
+  "t": 80,
+  "file": "sages-144fef8d-080.jpg",
+  "raters": [
+   3,
+   3,
+   1
+  ]
+ },
+ {
+  "case": "sages-144fef8d",
+  "t": 85,
+  "file": "sages-144fef8d-085.jpg",
+  "raters": [
+   2,
+   2,
+   1
+  ]
+ },
+ {
+  "case": "sages-280aaeb3",
+  "t": 30,
+  "file": "sages-280aaeb3-030.jpg",
+  "raters": [
+   2,
+   2,
+   1
+  ]
+ },
+ {
+  "case": "sages-280aaeb3",
+  "t": 35,
+  "file": "sages-280aaeb3-035.jpg",
+  "raters": [
+   2,
+   2,
+   1
+  ]
+ },
+ {
+  "case": "sages-280aaeb3",
+  "t": 40,
+  "file": "sages-280aaeb3-040.jpg",
+  "raters": [
+   1,
+   1,
+   1
+  ]
+ },
+ {
+  "case": "sages-280aaeb3",
+  "t": 45,
+  "file": "sages-280aaeb3-045.jpg",
+  "raters": [
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "case": "sages-280aaeb3",
+  "t": 50,
+  "file": "sages-280aaeb3-050.jpg",
+  "raters": [
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "case": "sages-280aaeb3",
+  "t": 55,
+  "file": "sages-280aaeb3-055.jpg",
+  "raters": [
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "case": "sages-280aaeb3",
+  "t": 60,
+  "file": "sages-280aaeb3-060.jpg",
+  "raters": [
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "case": "sages-280aaeb3",
+  "t": 65,
+  "file": "sages-280aaeb3-065.jpg",
+  "raters": [
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "case": "sages-280aaeb3",
+  "t": 70,
+  "file": "sages-280aaeb3-070.jpg",
+  "raters": [
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "case": "sages-280aaeb3",
+  "t": 75,
+  "file": "sages-280aaeb3-075.jpg",
+  "raters": [
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "case": "sages-280aaeb3",
+  "t": 80,
+  "file": "sages-280aaeb3-080.jpg",
+  "raters": [
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "case": "sages-280aaeb3",
+  "t": 85,
+  "file": "sages-280aaeb3-085.jpg",
+  "raters": [
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "case": "sages-0041dfb1",
+  "t": 30,
+  "file": "sages-0041dfb1-030.jpg",
+  "raters": [
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "case": "sages-0041dfb1",
+  "t": 35,
+  "file": "sages-0041dfb1-035.jpg",
+  "raters": [
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "case": "sages-0041dfb1",
+  "t": 40,
+  "file": "sages-0041dfb1-040.jpg",
+  "raters": [
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "case": "sages-0041dfb1",
+  "t": 45,
+  "file": "sages-0041dfb1-045.jpg",
+  "raters": [
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "case": "sages-0041dfb1",
+  "t": 50,
+  "file": "sages-0041dfb1-050.jpg",
+  "raters": [
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "case": "sages-0041dfb1",
+  "t": 55,
+  "file": "sages-0041dfb1-055.jpg",
+  "raters": [
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "case": "sages-0041dfb1",
+  "t": 60,
+  "file": "sages-0041dfb1-060.jpg",
+  "raters": [
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "case": "sages-0041dfb1",
+  "t": 65,
+  "file": "sages-0041dfb1-065.jpg",
+  "raters": [
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "case": "sages-0041dfb1",
+  "t": 70,
+  "file": "sages-0041dfb1-070.jpg",
+  "raters": [
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "case": "sages-0041dfb1",
+  "t": 75,
+  "file": "sages-0041dfb1-075.jpg",
+  "raters": [
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "case": "sages-0041dfb1",
+  "t": 80,
+  "file": "sages-0041dfb1-080.jpg",
+  "raters": [
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "case": "sages-0041dfb1",
+  "t": 85,
+  "file": "sages-0041dfb1-085.jpg",
+  "raters": [
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "case": "endoscapes-163",
+  "t": 214,
+  "file": "endoscapes-163-0214.jpg",
+  "raters": [
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "case": "endoscapes-163",
+  "t": 219,
+  "file": "endoscapes-163-0219.jpg",
+  "raters": [
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "case": "endoscapes-163",
+  "t": 224,
+  "file": "endoscapes-163-0224.jpg",
+  "raters": [
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "case": "endoscapes-163",
+  "t": 229,
+  "file": "endoscapes-163-0229.jpg",
+  "raters": [
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "case": "endoscapes-163",
+  "t": 234,
+  "file": "endoscapes-163-0234.jpg",
+  "raters": [
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "case": "endoscapes-163",
+  "t": 239,
+  "file": "endoscapes-163-0239.jpg",
+  "raters": [
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "case": "endoscapes-163",
+  "t": 244,
+  "file": "endoscapes-163-0244.jpg",
+  "raters": [
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "case": "endoscapes-163",
+  "t": 249,
+  "file": "endoscapes-163-0249.jpg",
+  "raters": [
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "case": "endoscapes-163",
+  "t": 254,
+  "file": "endoscapes-163-0254.jpg",
+  "raters": [
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "case": "endoscapes-163",
+  "t": 259,
+  "file": "endoscapes-163-0259.jpg",
+  "raters": [
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "case": "endoscapes-163",
+  "t": 264,
+  "file": "endoscapes-163-0264.jpg",
+  "raters": [
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "case": "endoscapes-163",
+  "t": 269,
+  "file": "endoscapes-163-0269.jpg",
+  "raters": [
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "case": "endoscapes-194",
+  "t": 211,
+  "file": "endoscapes-194-0211.jpg",
+  "raters": [
+   2,
+   1,
+   2
+  ]
+ },
+ {
+  "case": "endoscapes-194",
+  "t": 216,
+  "file": "endoscapes-194-0216.jpg",
+  "raters": [
+   1,
+   1,
+   3
+  ]
+ },
+ {
+  "case": "endoscapes-194",
+  "t": 221,
+  "file": "endoscapes-194-0221.jpg",
+  "raters": [
+   3,
+   3,
+   3
+  ]
+ },
+ {
+  "case": "endoscapes-194",
+  "t": 226,
+  "file": "endoscapes-194-0226.jpg",
+  "raters": [
+   3,
+   3,
+   3
+  ]
+ },
+ {
+  "case": "endoscapes-194",
+  "t": 231,
+  "file": "endoscapes-194-0231.jpg",
+  "raters": [
+   3,
+   3,
+   3
+  ]
+ },
+ {
+  "case": "endoscapes-194",
+  "t": 236,
+  "file": "endoscapes-194-0236.jpg",
+  "raters": [
+   3,
+   3,
+   3
+  ]
+ },
+ {
+  "case": "endoscapes-194",
+  "t": 241,
+  "file": "endoscapes-194-0241.jpg",
+  "raters": [
+   3,
+   3,
+   3
+  ]
+ },
+ {
+  "case": "endoscapes-194",
+  "t": 246,
+  "file": "endoscapes-194-0246.jpg",
+  "raters": [
+   3,
+   3,
+   3
+  ]
+ },
+ {
+  "case": "endoscapes-194",
+  "t": 251,
+  "file": "endoscapes-194-0251.jpg",
+  "raters": [
+   3,
+   3,
+   3
+  ]
+ },
+ {
+  "case": "endoscapes-194",
+  "t": 256,
+  "file": "endoscapes-194-0256.jpg",
+  "raters": [
+   3,
+   3,
+   3
+  ]
+ },
+ {
+  "case": "endoscapes-194",
+  "t": 261,
+  "file": "endoscapes-194-0261.jpg",
+  "raters": [
+   3,
+   3,
+   3
+  ]
+ },
+ {
+  "case": "endoscapes-194",
+  "t": 266,
+  "file": "endoscapes-194-0266.jpg",
+  "raters": [
+   3,
+   3,
+   3
+  ]
+ }
+]

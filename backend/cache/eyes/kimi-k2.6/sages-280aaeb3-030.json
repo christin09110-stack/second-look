@@ -1,0 +1,17 @@
+{
+ "file": "sages-280aaeb3-030.jpg",
+ "model": "moonshotai/Kimi-K2.6",
+ "scores": [
+  2.0,
+  2.0,
+  3.0
+ ],
+ "why": [
+  "only one tubular structure hinted, not two separate clear tubes",
+  "fatty and fibrous tissue still abundant in hepatocystic triangle",
+  "liver surface visible but no distinct bare cystic plate strip between gallbladder and liver"
+ ],
+ "instruments": "permanent cautery hook visible; crocodile grasper labeled, no clip applier or scissors at duct or vessel",
+ "view": "bloody",
+ "seconds": 30.3
+}

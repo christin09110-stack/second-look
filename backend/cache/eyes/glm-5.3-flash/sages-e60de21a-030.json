@@ -1,0 +1,17 @@
+{
+ "file": "sages-e60de21a-030.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  0.0,
+  0.0,
+  0.0
+ ],
+ "why": [
+  "no separate duct or artery tubes visible, only a dark dissected hole with debris",
+  "triangle not opened; charred tissue, fat and debris fill the area, no clean window",
+  "gallbladder not lifted, no bare cystic plate, liver dominates the view"
+ ],
+ "instruments": "dark green grasper/suction shaft from upper left; metallic instrument tip at top right near dissected area, type unclear, not clearly at a duct or vessel",
+ "view": "blurred",
+ "seconds": 10.1
+}

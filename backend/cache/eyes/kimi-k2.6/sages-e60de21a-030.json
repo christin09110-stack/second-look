@@ -1,0 +1,17 @@
+{
+ "file": "sages-e60de21a-030.jpg",
+ "model": "moonshotai/Kimi-K2.6",
+ "scores": [
+  1.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "no two separate tubes seen",
+  "fat and fibrous tissue obscuring triangle",
+  "no bare cystic plate visible"
+ ],
+ "instruments": "grasper and suction/dissector, none",
+ "view": "blurred",
+ "seconds": 37.4
+}

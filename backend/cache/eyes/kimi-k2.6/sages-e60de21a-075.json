@@ -1,0 +1,17 @@
+{
+ "file": "sages-e60de21a-075.jpg",
+ "model": "moonshotai/Kimi-K2.6",
+ "scores": [
+  2.0,
+  0.0,
+  2.0
+ ],
+ "why": [
+  "only one thin strand visible, not two separate tubes at gallbladder neck",
+  "hepatocystic triangle obscured by fat and fibrous tissue",
+  "no clear strip of bare liver between lower gallbladder and liver"
+ ],
+ "instruments": "grasper holding tissue; no clip applier or scissors at duct or vessel",
+ "view": "close-up, dark",
+ "seconds": 55.0
+}

@@ -1,0 +1,17 @@
+{
+ "file": "train-168-0239.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  2.0,
+  1.0,
+  3.0
+ ],
+ "why": [
+  "at most one pale tube at neck, fat obscures second structure",
+  "yellow fat and fibrous strands still cover the triangle",
+  "gallbladder retracted up but plate not clearly bared, fat remains between"
+ ],
+ "instruments": "fenestrated grasper holding gallbladder neck at top; small metal instrument tip lower right, not clearly at duct or vessel",
+ "view": "bloody",
+ "seconds": 17.6
+}

@@ -1,0 +1,17 @@
+{
+ "file": "sages-280aaeb3-065.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  1.0,
+  2.0,
+  1.0
+ ],
+ "why": [
+  "no separate duct or artery discernible; anatomy obscured in dark field",
+  "triangle not delineated, fatty fibrous tissue covers the area",
+  "no bare liver strip visible; gallbladder not lifted off liver bed"
+ ],
+ "instruments": "no instrument clearly in frame; overlay shows crocodile grasper installed but not visible, right port empty; no clip applier or scissors at duct or vessel",
+ "view": "dark and blurred, poorly lit with overlay text",
+ "seconds": 12.7
+}

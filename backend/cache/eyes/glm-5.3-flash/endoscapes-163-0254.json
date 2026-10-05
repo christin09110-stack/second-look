@@ -1,0 +1,17 @@
+{
+ "file": "endoscapes-163-0254.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  2.0,
+  1.0,
+  3.0
+ ],
+ "why": [
+  "only one whitish tube (likely cystic duct) seen; artery not separate, blood obscures neck",
+  "bloody fat and fibrous tissue still fill the triangle",
+  "gallbladder retracted up-left but no clean bare liver strip, tissue still attached"
+ ],
+ "instruments": "grasper holding gallbladder (top left); clip-applier-like tip near duct (bottom right), not clearly firing",
+ "view": "bloody",
+ "seconds": 18.6
+}

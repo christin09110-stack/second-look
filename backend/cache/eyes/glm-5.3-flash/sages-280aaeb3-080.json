@@ -1,0 +1,17 @@
+{
+ "file": "sages-280aaeb3-080.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  1.0,
+  0.0,
+  2.0
+ ],
+ "why": [
+  "bloody field, two separate tubes not identifiable",
+  "triangle obscured by blood and residual tissue, not cleared",
+  "liver surface visible but no clear bare cystic plate strip"
+ ],
+ "instruments": "medium-large clip applier central with clip at tissue near duct/vessel area; crocodile grasper labeled but not clearly in view",
+ "view": "bloody",
+ "seconds": 18.8
+}

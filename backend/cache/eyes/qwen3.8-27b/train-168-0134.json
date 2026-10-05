@@ -1,0 +1,17 @@
+{
+ "file": "train-168-0134.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  4.0,
+  2.0,
+  5.0
+ ],
+ "why": [
+  "one clear tube down-right; second tube obscured by fat/hole",
+  "yellow fat and fibrous tissue over and between structures",
+  "gallbladder lifted and liver edge seen, but no distinct bare-plate strip"
+ ],
+ "instruments": "clip applier (left, open) and a dissecting grasper/hook (right); none at a duct or vessel",
+ "view": "clear",
+ "seconds": 28.9
+}

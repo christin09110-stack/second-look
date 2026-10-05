@@ -1,0 +1,17 @@
+{
+ "file": "sages-280aaeb3-085.jpg",
+ "model": "moonshotai/Kimi-K2.6",
+ "scores": [
+  1.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "no two separate duct and artery tubes visible entering the neck",
+  "triangle obscured by tissue and instrument shafts, not cleared",
+  "no clear strip of bare liver surface visible between gallbladder and liver"
+ ],
+ "instruments": "crocodile grasper and medium-large clip applier; not clear if at duct or vessel",
+ "view": "blurred and reddish with glare",
+ "seconds": 43.8
+}

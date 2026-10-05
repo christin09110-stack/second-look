@@ -1,0 +1,17 @@
+{
+ "file": "train-168-0174.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  0.0,
+  0.0,
+  0.0
+ ],
+ "why": [
+  "no duct or artery seen; only liver edge and fat",
+  "triangle not dissected, fat fills the field",
+  "no gallbladder lift, no bare liver plate visible"
+ ],
+ "instruments": "none visible",
+ "view": "clear",
+ "seconds": 7.0
+}

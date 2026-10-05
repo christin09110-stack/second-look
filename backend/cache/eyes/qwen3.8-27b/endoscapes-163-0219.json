@@ -1,0 +1,17 @@
+{
+ "file": "endoscapes-163-0219.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "one tube only, neck buried in fat",
+  "fat and fibrous tissue fill the triangle",
+  "no bare liver strip between GB and liver"
+ ],
+ "instruments": "grasper at top-left, dissecting tip at bottom-right; cannot tell if clip applier/scissors at a duct",
+ "view": "clear",
+ "seconds": 10.6
+}

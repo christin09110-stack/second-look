@@ -1,0 +1,17 @@
+{
+ "file": "endoscapes-194-0256.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  3.0,
+  2.0,
+  5.0
+ ],
+ "why": [
+  "no two clear separate tubes; neck/duct obscured by tissue",
+  "fibrous/fatty tissue still over and between the triangle",
+  "GB partly retracted but bare liver strip not clearly shown"
+ ],
+ "instruments": "grasper upper-left at gallbladder neck; clip applier/scissors lower-right engaged with a tubular structure in the triangle",
+ "view": "clear",
+ "seconds": 19.2
+}

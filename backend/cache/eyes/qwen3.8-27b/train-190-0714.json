@@ -1,0 +1,17 @@
+{
+ "file": "train-190-0714.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  2.0,
+  6.0
+ ],
+ "why": [
+  "one pale tube seen, second not clear of surrounding tissue",
+  "fat/fibrous tissue still over the triangle",
+  "gallbladder lifted, bare liver strip below"
+ ],
+ "instruments": "one white-shafted instrument (grasper/dissector) at the central tube; clip applier or scissors not identifiable",
+ "view": "smoky",
+ "seconds": 17.2
+}

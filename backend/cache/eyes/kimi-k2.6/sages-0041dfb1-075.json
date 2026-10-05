@@ -1,0 +1,17 @@
+{
+ "file": "sages-0041dfb1-075.jpg",
+ "model": "moonshotai/Kimi-K2.6",
+ "scores": [
+  0.0,
+  0.0,
+  0.0
+ ],
+ "why": [
+  "fundus view, cystic duct and artery not seen",
+  "triangle not visible, covered by tissue",
+  "lower gallbladder not lifted, no cystic plate seen"
+ ],
+ "instruments": "two graspers, none at duct or vessel",
+ "view": "clear",
+ "seconds": 35.3
+}

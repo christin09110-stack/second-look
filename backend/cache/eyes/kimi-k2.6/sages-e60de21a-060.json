@@ -1,0 +1,17 @@
+{
+ "file": "sages-e60de21a-060.jpg",
+ "model": "moonshotai/Kimi-K2.6",
+ "scores": [
+  1.0,
+  1.0,
+  1.0
+ ],
+ "why": [
+  "no two separate tubes visible",
+  "fat and fibrous tissue remain in triangle",
+  "no bare cystic plate strip seen"
+ ],
+ "instruments": "grasper/dissector left, scissors right dissecting tissue; not clearly at duct or vessel",
+ "view": "clear",
+ "seconds": 109.8
+}

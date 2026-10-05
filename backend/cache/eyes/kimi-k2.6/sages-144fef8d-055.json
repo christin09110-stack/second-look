@@ -1,0 +1,17 @@
+{
+ "file": "sages-144fef8d-055.jpg",
+ "model": "moonshotai/Kimi-K2.6",
+ "scores": [
+  1.0,
+  1.0,
+  1.0
+ ],
+ "why": [
+  "no two separate tubular structures seen entering gallbladder neck",
+  "abundant fat and fibrous tissue remains within hepatocystic triangle",
+  "no distinct bare cystic plate visible between gallbladder and liver"
+ ],
+ "instruments": "grasper and monopolar hook/dissector; no clip applier or scissors identifiable at a duct or vessel",
+ "view": "clear",
+ "seconds": 56.1
+}

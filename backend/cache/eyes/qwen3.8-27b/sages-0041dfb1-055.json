@@ -1,0 +1,17 @@
+{
+ "file": "sages-0041dfb1-055.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  1.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "no two distinct tubes; neck obscured by blood",
+  "yellow fat and fibrous tissue fill the triangle",
+  "gallbladder not lifted; no bare liver strip seen"
+ ],
+ "instruments": "single gray instrument tip at central reddish tissue; cannot confirm a duct or vessel (none)",
+ "view": "clear, some blood",
+ "seconds": 9.7
+}

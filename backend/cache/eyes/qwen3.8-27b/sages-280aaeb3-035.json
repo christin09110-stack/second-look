@@ -1,0 +1,17 @@
+{
+ "file": "sages-280aaeb3-035.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  1.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "no two distinct tubes, tissue obscured",
+  "fat/fibrous tissue over the field",
+  "no clear bare liver strip, lower surface ambiguous"
+ ],
+ "instruments": "cautery hook in field (grasper label only, not seen); not clearly at a duct or vessel",
+ "view": "dark, bloody",
+ "seconds": 7.5
+}

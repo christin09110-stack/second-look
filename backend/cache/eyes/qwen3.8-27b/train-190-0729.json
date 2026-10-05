@@ -1,0 +1,17 @@
+{
+ "file": "train-190-0729.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  6.0,
+  7.0,
+  7.0
+ ],
+ "why": [
+  "one tube clear, second not distinct",
+  "triangle mostly dissected, minor tissue",
+  "gallbladder lifted, bare liver strip below"
+ ],
+ "instruments": "grasper/forceps on left holding gallbladder neck; no clip applier or scissors at a duct or vessel (none)",
+ "view": "clear",
+ "seconds": 13.1
+}

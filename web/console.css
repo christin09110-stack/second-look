@@ -1,0 +1,351 @@
+/* Curbcut console.
+   A review surface, not a dashboard. The reference points are a CI run page
+   and a code review: dense, quiet, monospaced wherever the content is data a
+   developer will compare character by character. Nothing here sells the
+   product to someone already looking at their own run. */
+
+:root {
+  --paper:    #ffffff;
+  --sunk:     #f7f8f9;
+  --ink:      #16191d;
+  --ink-2:    #57606a;
+  /* 4.66:1 on --sunk, 4.96:1 on --paper. The obvious lighter grey here
+     (#848d97) reads better and fails at 3.17:1 -- checked, not guessed. */
+  --ink-3:    #68717b;
+  --rule:     #d6dbe0;
+  --rule-2:   #eaedf0;
+
+  /* Borrowed from the diff vocabulary on purpose: this tool's output is a
+     pull request, so it should speak the colour language of one. */
+  --ok:       #1a7f37;
+  --ok-bg:    #e8f5ec;
+  --no:       #a0111f;
+  --no-bg:    #fcedee;
+  --wait:     #8a6100;
+  --wait-bg:  #fbf3e2;
+  --link:     #0a5cc4;
+
+  --add-bg:   #e6f6eb;
+  --del-bg:   #ffe9ec;
+
+  --sans: "Public Sans", ui-sans-serif, system-ui, -apple-system, sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, monospace;
+}
+
+
+* { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font: 400 15px/1.5 var(--sans);
+  font-feature-settings: "ss01";
+}
+
+.skip {
+  position: absolute; left: -9999px;
+  background: var(--ink); color: var(--paper);
+  padding: 10px 14px; z-index: 10; text-decoration: none;
+}
+.skip:focus { left: 12px; top: 12px; }
+
+:focus-visible {
+  outline: 2px solid var(--link);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+/* ---------- masthead ---------- */
+
+.masthead {
+  display: flex; align-items: baseline; gap: 16px;
+  padding: 14px 20px;
+  border-bottom: 1px solid var(--rule);
+}
+
+.brand { display: flex; align-items: center; gap: 9px; }
+
+/* The mark is a pupil in an iris: the second look, drawn once, at 15px. */
+.mark {
+  width: 15px; height: 15px;
+  border-radius: 50%;
+  background: radial-gradient(circle, var(--paper) 0 28%, var(--ink) 30%);
+}
+
+.name { font-weight: 700; letter-spacing: -0.015em; font-size: 16px; }
+
+.strap { margin: 0; color: var(--ink-2); font-size: 13.5px; }
+
+/* ---------- frame ---------- */
+
+.frame {
+  display: grid;
+  grid-template-columns: minmax(240px, 300px) minmax(0, 1fr);
+  min-height: calc(100vh - 52px);
+}
+
+/* ---------- run list ---------- */
+
+.runs { border-right: 1px solid var(--rule); background: var(--sunk); }
+
+.runs-head {
+  display: flex; align-items: baseline; justify-content: space-between;
+  padding: 14px 16px 10px;
+}
+.runs-head h2 {
+  margin: 0; font-size: 11px; font-weight: 600;
+  letter-spacing: 0.09em; text-transform: uppercase; color: var(--ink-2);
+}
+.tally { font: 500 11px/1 var(--mono); color: var(--ink-3); }
+
+.run-list { list-style: none; margin: 0; padding: 0; }
+
+.run-btn {
+  display: block; width: 100%; text-align: left;
+  background: none; border: 0;
+  border-top: 1px solid var(--rule-2);
+  padding: 11px 16px;
+  font: inherit; color: inherit; cursor: pointer;
+}
+.run-btn:hover { background: var(--paper); }
+.run-row[aria-current="true"] .run-btn {
+  background: var(--paper);
+  box-shadow: inset 3px 0 0 var(--ink);
+}
+
+.run-repo {
+  display: block;
+  font: 500 12.5px/1.4 var(--mono);
+  overflow-wrap: anywhere;
+}
+.run-meta {
+  display: flex; gap: 8px; align-items: center;
+  margin-top: 4px; font-size: 12px; color: var(--ink-2);
+}
+.run-pr { font-family: var(--mono); }
+.run-verdict { font-weight: 600; }
+.run-verdict[data-ok="false"] { color: var(--no); }
+.run-counts {
+  display: block; margin-top: 3px;
+  font: 400 11.5px/1 var(--mono); color: var(--ink-3);
+}
+
+/* ---------- detail ---------- */
+
+.detail { padding: 22px 26px 60px; max-width: 900px; }
+.detail:focus { outline: none; }
+
+.empty { color: var(--ink-2); max-width: 46ch; }
+.empty h2 { margin: 0 0 8px; font-size: 17px; }
+
+.run-title {
+  margin: 0;
+  font: 600 20px/1.3 var(--mono);
+  letter-spacing: -0.01em;
+  overflow-wrap: anywhere;
+}
+
+.run-sub {
+  margin: 6px 0 0;
+  font-size: 13.5px; color: var(--ink-2);
+}
+.run-sub a { color: var(--link); }
+
+/* The gate: the six conditions that decide whether anything shipped. Laid out
+   as a fact table because that is what it is -- not six cards. */
+.gate {
+  margin: 20px 0 0;
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  overflow: hidden;
+}
+.gate-head {
+  display: flex; align-items: center; gap: 10px;
+  padding: 9px 13px;
+  background: var(--sunk);
+  border-bottom: 1px solid var(--rule);
+  font-size: 12px; font-weight: 600;
+  letter-spacing: 0.05em; text-transform: uppercase; color: var(--ink-2);
+}
+.gate-verdict { margin-left: auto; letter-spacing: 0; text-transform: none; }
+.gate-verdict[data-ok="true"]  { color: var(--ok); }
+.gate-verdict[data-ok="false"] { color: var(--no); }
+
+.gate dl { margin: 0; display: grid; grid-template-columns: 1fr auto; }
+.gate dt, .gate dd {
+  margin: 0; padding: 7px 13px;
+  border-top: 1px solid var(--rule-2);
+  font-size: 13px;
+}
+.gate dt:first-of-type, .gate dt:first-of-type + dd { border-top: 0; }
+.gate dt { color: var(--ink-2); }
+.gate dd { font-family: var(--mono); font-size: 12.5px; text-align: right; }
+.gate dd[data-state="ok"]   { color: var(--ok); }
+.gate dd[data-state="bad"]  { color: var(--no); }
+
+/* ---------- ledger ---------- */
+
+.ledger-head {
+  display: flex; align-items: baseline; gap: 12px;
+  margin: 30px 0 2px;
+}
+.ledger-head h2 { margin: 0; font-size: 15px; font-weight: 600; }
+.ledger-head p { margin: 0; font-size: 13px; color: var(--ink-2); }
+
+.ledger { list-style: none; margin: 12px 0 0; padding: 0; }
+
+.row {
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  margin-bottom: 7px;
+  background: var(--paper);
+}
+
+.row-btn {
+  display: grid;
+  grid-template-columns: 14px minmax(0, 150px) 1fr auto;
+  align-items: center; gap: 12px;
+  width: 100%; padding: 10px 12px;
+  background: none; border: 0; font: inherit; color: inherit;
+  text-align: left; cursor: pointer;
+}
+.row-btn:hover { background: var(--sunk); }
+
+.chev {
+  width: 14px; height: 14px; color: var(--ink-3);
+  transition: transform .12s ease;
+}
+.row[data-open="true"] .chev { transform: rotate(90deg); }
+
+.rule-id {
+  font: 500 12.5px/1 var(--mono);
+  padding: 4px 6px;
+  background: var(--sunk);
+  border: 1px solid var(--rule-2);
+  border-radius: 3px;
+  justify-self: start;
+}
+.row[data-verdict="fail"] .rule-id { text-decoration: line-through; color: var(--ink-2); }
+
+.row-note { font-size: 13.5px; color: var(--ink-2); }
+.row[data-verdict="pass"] .row-note { color: var(--ink); }
+
+/* The signature: the four stages every violation passes through, drawn as a
+   track. Filled = done, hollow = never reached, struck = reached and refused.
+   The audit trail records exactly these four steps per rule, so this is the
+   data, not an illustration of it. */
+.track { display: flex; align-items: center; gap: 3px; }
+.seg {
+  width: 22px; height: 5px; border-radius: 1px;
+  background: var(--rule);
+}
+.seg[data-state="done"]   { background: var(--ok); }
+.seg[data-state="failed"] { background: var(--no); }
+.seg[data-state="none"]   { background: var(--rule); }
+
+.panel { border-top: 1px solid var(--rule-2); padding: 12px 12px 14px; }
+.panel[hidden] { display: none; }
+
+.where {
+  font: 400 12px/1 var(--mono); color: var(--ink-2);
+  margin: 0 0 9px;
+}
+
+.diff { margin: 0 0 10px; border: 1px solid var(--rule-2); border-radius: 3px; overflow: hidden; }
+.diff pre {
+  margin: 0; padding: 6px 10px 6px 8px;
+  font: 400 12.5px/1.6 var(--mono);
+  white-space: pre-wrap; overflow-wrap: anywhere;
+  border-left: 3px solid transparent;
+}
+.diff .del { background: var(--del-bg); border-left-color: var(--no); }
+.diff .add { background: var(--add-bg); border-left-color: var(--ok); }
+
+.why { margin: 0; font-size: 13.5px; color: var(--ink-2); }
+.why b { color: var(--ink); font-weight: 600; }
+
+.stages { list-style: none; margin: 10px 0 0; padding: 0; display: flex; flex-wrap: wrap; gap: 6px; }
+.stages li {
+  font: 400 11.5px/1 var(--mono);
+  padding: 4px 7px; border-radius: 3px;
+  background: var(--sunk); color: var(--ink-2);
+  border: 1px solid var(--rule-2);
+}
+.stages li[data-state="done"]   { color: var(--ok);   background: var(--ok-bg);   border-color: transparent; }
+.stages li[data-state="failed"] { color: var(--no);   background: var(--no-bg);   border-color: transparent; }
+
+/* ---------- narrow ---------- */
+
+@media (max-width: 760px) {
+  .frame { grid-template-columns: 1fr; }
+  .runs { border-right: 0; border-bottom: 1px solid var(--rule); }
+  .detail { padding: 18px 16px 48px; }
+  .row-btn { grid-template-columns: 14px 1fr; row-gap: 8px; }
+  .track, .row-note { grid-column: 2; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; animation: none !important; }
+}
+
+/* ---------- filters ---------- */
+
+.filters { display: flex; gap: 6px; margin: 12px 0 0; }
+
+.chip {
+  font: 500 12.5px/1 var(--sans);
+  padding: 6px 10px;
+  background: var(--paper);
+  color: var(--ink-2);
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+  cursor: pointer;
+}
+.chip:hover { background: var(--sunk); }
+.chip[aria-pressed="true"] {
+  background: var(--ink); color: var(--paper); border-color: var(--ink);
+}
+/* No opacity here: .7 on --ink-2 drops the count to 3.4:1 against the chip.
+   --ink-3 is the already-verified 4.96:1 token. Caught by axe on our own UI. */
+.chip .n { font-family: var(--mono); color: var(--ink-3); margin-left: 3px; }
+.chip[aria-pressed="true"] .n { color: var(--paper); opacity: .75; }
+
+/* Announced to screen readers when a filter changes the list, without taking
+   space in the visual layout. */
+.sr-live {
+  position: absolute; width: 1px; height: 1px;
+  margin: -1px; padding: 0; border: 0;
+  clip-path: inset(50%); overflow: hidden; white-space: nowrap;
+}
+
+.row[hidden] { display: none; }
+
+/* ---------- rendered markup ---------- */
+
+.render {
+  display: grid; grid-template-columns: 1fr 1fr; gap: 10px;
+  margin: 0 0 8px;
+}
+.render figure { margin: 0; }
+.render figcaption {
+  font: 500 11px/1 var(--mono);
+  letter-spacing: .06em; text-transform: uppercase;
+  color: var(--ink-2); margin: 0 0 5px;
+}
+.mini {
+  width: 100%; height: 92px;
+  border: 1px solid var(--rule); border-radius: 3px;
+  background: #fff; display: block;
+}
+.render figure:first-child .mini { border-left: 3px solid var(--no); }
+.render figure:last-child  .mini { border-left: 3px solid var(--ok); }
+
+.render-note {
+  margin: 0 0 10px;
+  font: 400 11.5px/1.45 var(--sans); color: var(--ink-3);
+}
+
+@media (max-width: 620px) { .render { grid-template-columns: 1fr; } }

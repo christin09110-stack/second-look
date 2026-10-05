@@ -1,0 +1,17 @@
+{
+ "file": "sages-144fef8d-030.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  2.0,
+  3.0
+ ],
+ "why": [
+  "one pale duct seen, second tube not distinct, fat around it",
+  "yellow fat/fibrous tissue fills the triangle",
+  "no bare liver strip; gallbladder not lifted off"
+ ],
+ "instruments": "left serrated grasper/clip applier; right dark-shaft instrument with white tip at tissue near the duct, not clearly on a vessel",
+ "view": "clear",
+ "seconds": 11.1
+}

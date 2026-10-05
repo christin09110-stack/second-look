@@ -1,0 +1,17 @@
+{
+ "file": "train-168-0194.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  1.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "only a clipped neck structure, no two separate clear tubes",
+  "triangle not dissected, fat/tissue still present",
+  "gallbladder still seated in fossa, no bare liver strip"
+ ],
+ "instruments": "no active instrument shaft in view; a metallic clip is already on the neck/duct",
+ "view": "clear",
+ "seconds": 16.4
+}

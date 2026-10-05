@@ -1,0 +1,17 @@
+{
+ "file": "endoscapes-194-0236.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  2.0,
+  1.0,
+  1.0
+ ],
+ "why": [
+  "only a small window with one dark tubular structure glimpsed; no two separate clear tubes",
+  "fibrofatty tissue still covers the triangle, dissection just started",
+  "gallbladder still attached to liver, no bare cystic plate visible"
+ ],
+ "instruments": "fenestrated grasper on gallbladder neck left side; no clip applier or scissors at duct",
+ "view": "clear",
+ "seconds": 9.0
+}

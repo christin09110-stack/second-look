@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Second Look</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Ccircle cx='8' cy='8' r='7' fill='%2316191d'/%3E%3Ccircle cx='8' cy='8' r='3' fill='%23fff'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="/static/console.css">
+  <link rel="stylesheet" href="/static/second-look.css">
+</head>
+<body>
+  <a class="skip" href="#case">Skip to case detail</a>
+
+  <header class="masthead">
+    <div class="brand">
+      <span class="mark" aria-hidden="true"></span>
+      <span class="name">Second Look</span>
+    </div>
+    <p class="strap">Was the critical view of safety established before the clip?</p>
+  </header>
+
+  <div class="frame">
+    <nav class="runs" aria-labelledby="runs-heading">
+      <div class="runs-head">
+        <h2 id="runs-heading">Cases</h2>
+        <span class="tally" id="tally">&mdash;</span>
+      </div>
+      <ol class="run-list" id="run-list"></ol>
+    </nav>
+
+    <main class="detail" id="case" tabindex="-1">
+      <div id="detail-body"></div>
+    </main>
+  </div>
+
+  <template id="tpl-run-row">
+    <li class="run-row">
+      <button type="button" class="run-btn">
+        <span class="run-repo"></span>
+        <span class="run-meta">
+          <span class="run-verdict"></span>
+        </span>
+        <span class="run-counts"></span>
+      </button>
+    </li>
+  </template>
+
+  <script src="/static/console.js"></script>
+</body>
+</html>

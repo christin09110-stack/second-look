@@ -1,0 +1,17 @@
+{
+ "file": "train-190-0709.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  2.0,
+  6.0
+ ],
+ "why": [
+  "only one tube (diagonal, with red vessels) is clear; second tube obscured by instrument/tissue",
+  "fat/fibrous tissue and the instrument still occupy the triangle; not clean",
+  "smooth bare liver strip visible below the retracted gallbladder neck"
+ ],
+ "instruments": "single gray-shafted instrument with white conical tip positioned at the duct/neck; cannot confirm it is a clip applier or scissors (none)",
+ "view": "clear",
+ "seconds": 11.2
+}

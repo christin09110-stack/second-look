@@ -1,0 +1,17 @@
+{
+ "file": "sages-144fef8d-035.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  2.0,
+  3.0
+ ],
+ "why": [
+  "only one tube-like structure seen; neck covered by fat",
+  "yellow fat/fibrous tissue fills the triangle over the tubes",
+  "no clear bare-liver strip; gallbladder not lifted, view obscured"
+ ],
+ "instruments": "metallic clip-applier/grasper at left, dark-shafted grasper/suction at right; no clip applier or scissors clearly at a duct or vessel (cannot tell)",
+ "view": "clear",
+ "seconds": 14.0
+}

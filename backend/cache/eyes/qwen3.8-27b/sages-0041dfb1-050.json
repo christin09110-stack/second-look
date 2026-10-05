@@ -1,0 +1,17 @@
+{
+ "file": "sages-0041dfb1-050.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  1.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "no two clear separate tubes; neck obscured by fat and bleeding",
+  "yellow fat and fibrous tissue fill the triangle",
+  "gallbladder not lifted; no bare cystic plate strip visible"
+ ],
+ "instruments": "one dissecting forceps/hook at a bleeding tissue site; no clip applier or scissors at a duct or vessel",
+ "view": "bloody",
+ "seconds": 7.9
+}

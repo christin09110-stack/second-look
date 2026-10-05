@@ -1,0 +1,17 @@
+{
+ "file": "sages-e60de21a-060.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "no two clear separate tubes; one indistinct structure buried in fat",
+  "yellow fat and white fibrous strands still over/between the triangle",
+  "gallbladder not lifted; no bare cystic-plate strip between it and liver"
+ ],
+ "instruments": "smooth black retractor/grasper shaft on left; open-jaw clip applier on right sitting in the triangle; cannot tell if it is on a duct or vessel",
+ "view": "clear",
+ "seconds": 20.2
+}

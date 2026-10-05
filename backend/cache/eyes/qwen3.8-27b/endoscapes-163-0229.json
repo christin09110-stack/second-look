@@ -1,0 +1,17 @@
+{
+ "file": "endoscapes-163-0229.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  1.0,
+  1.0,
+  3.0
+ ],
+ "why": [
+  "no two clear separate tubes; fat/fibrous mass at neck",
+  "fat lobules and fibrous tissue fill the triangle",
+  "gallbladder retracted but no clear bare liver strip"
+ ],
+ "instruments": "grasper (left) holding tissue; white/gray-tipped dissecting instrument (center); cannot tell if clip applier/scissors at a duct or vessel (none)",
+ "view": "clear",
+ "seconds": 13.3
+}

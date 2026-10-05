@@ -1,0 +1,17 @@
+{
+ "file": "endoscapes-194-0236.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  4.0,
+  2.0,
+  5.0
+ ],
+ "why": [
+  "one tube clear; second obscured by clip/white tissue",
+  "white fibrous tissue and a hole remain in the triangle",
+  "bare liver at bottom but no clear strip between lifted GB"
+ ],
+ "instruments": "clip applier grasping a duct/vessel end; no scissors",
+ "view": "clear",
+ "seconds": 24.9
+}

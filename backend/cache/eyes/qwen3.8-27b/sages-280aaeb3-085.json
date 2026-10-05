@@ -1,0 +1,17 @@
+{
+ "file": "sages-280aaeb3-085.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  1.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "no two distinct tubes; neck obscured by tissue/instrument",
+  "triangle not dissected; fat/fibrous tissue present",
+  "no clear bare liver strip; dark, low-contrast view"
+ ],
+ "instruments": "crocodile grasper and medium-large clip applier; none at a duct/vessel (cannot tell)",
+ "view": "blurred",
+ "seconds": 12.2
+}

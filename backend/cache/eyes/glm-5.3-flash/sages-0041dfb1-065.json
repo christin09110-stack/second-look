@@ -1,0 +1,17 @@
+{
+ "file": "sages-0041dfb1-065.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  1.0,
+  0.0,
+  3.0
+ ],
+ "why": [
+  "neck buried in fat and blood, no two distinct tubes seen",
+  "omentum and fibrofatty tissue still cover the triangle",
+  "gallbladder retracted but neck still attached, no clear bare liver strip"
+ ],
+ "instruments": "claw grasper pulling gallbladder neck, thin dissector shaft from left near infundibulum; no clip applier or scissors",
+ "view": "clear with minor bleeding at the infundibulum",
+ "seconds": 41.0
+}

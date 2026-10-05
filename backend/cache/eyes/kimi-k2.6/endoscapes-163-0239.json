@@ -1,0 +1,17 @@
+{
+ "file": "endoscapes-163-0239.jpg",
+ "model": "moonshotai/Kimi-K2.6",
+ "scores": [
+  2.0,
+  2.0,
+  3.0
+ ],
+ "why": [
+  "only one indistinct tubular structure seen, not two separate clear tubes",
+  "fat and fibrous tissue remain throughout hepatocystic triangle",
+  "gallbladder not clearly lifted off liver to expose bare cystic plate"
+ ],
+ "instruments": "grasper on left; no clip applier or scissors at duct or vessel",
+ "view": "bloody",
+ "seconds": 37.1
+}

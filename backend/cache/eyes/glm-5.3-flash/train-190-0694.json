@@ -1,0 +1,17 @@
+{
+ "file": "train-190-0694.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  2.0,
+  1.0,
+  4.0
+ ],
+ "why": [
+  "no two separate tubes seen entering the neck; fibrous tissue still covers the area",
+  "fibrofatty tissue still fills the triangle; hook actively dissecting it",
+  "gallbladder partly lifted but strip between it and liver edge not clearly bare plate"
+ ],
+ "instruments": "L-hook dissector at gallbladder neck tissue, retractor/grasper at left edge; no clip applier or scissors",
+ "view": "clear",
+ "seconds": 25.8
+}

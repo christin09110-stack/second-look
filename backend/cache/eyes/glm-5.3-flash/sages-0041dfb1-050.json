@@ -1,0 +1,17 @@
+{
+ "file": "sages-0041dfb1-050.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  1.0,
+  0.0,
+  1.0
+ ],
+ "why": [
+  "no separate duct or artery seen; neck obscured by blood and fat",
+  "hepatocystic triangle covered with fat, omentum and blood",
+  "gallbladder still attached to liver, no bare cystic plate visible"
+ ],
+ "instruments": "suction/irrigation cannula at bloody gallbladder neck; no clip applier or scissors",
+ "view": "bloody",
+ "seconds": 13.8
+}

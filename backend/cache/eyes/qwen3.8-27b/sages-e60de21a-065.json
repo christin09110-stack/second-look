@@ -1,0 +1,17 @@
+{
+ "file": "sages-e60de21a-065.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  2.0,
+  6.0
+ ],
+ "why": [
+  "only one tubular structure, neck obscured by tissue",
+  "fat and fibrous tissue over the triangle",
+  "gallbladder lifted, bare liver surface visible"
+ ],
+ "instruments": "two graspers/forceps; none clearly at a duct or vessel",
+ "view": "clear",
+ "seconds": 18.8
+}

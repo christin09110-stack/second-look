@@ -1,0 +1,17 @@
+{
+ "file": "train-168-0224.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  2.0,
+  1.0,
+  3.0
+ ],
+ "why": [
+  "one vague tubular structure near hook, no two distinct tubes clear of tissue",
+  "abundant yellow fat and fibrous tissue still covering triangle",
+  "gallbladder retracted up but no bare liver strip evident below"
+ ],
+ "instruments": "fenestrated grasper on gallbladder wall, L-hook cautery dissecting at neck; no clip applier or scissors",
+ "view": "bloody",
+ "seconds": 13.7
+}

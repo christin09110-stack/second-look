@@ -1,0 +1,17 @@
+{
+ "file": "train-190-0694.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  2.0,
+  6.0
+ ],
+ "why": [
+  "one tube only, second not clear of tissue",
+  "fat/fibrous tissue still over triangle",
+  "gallbladder retracted, liver strip visible"
+ ],
+ "instruments": "grasper at left, dissecting instrument at right; none at a duct/vessel",
+ "view": "clear",
+ "seconds": 11.6
+}

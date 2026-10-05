@@ -1,0 +1,17 @@
+{
+ "file": "endoscapes-163-0249.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  1.0,
+  1.0,
+  4.0
+ ],
+ "why": [
+  "no two distinct clear tubes, fatty mass at neck",
+  "fat/fibrous tissue over and between triangle",
+  "gallbladder partly off liver but no clear bare plate strip"
+ ],
+ "instruments": "none visible",
+ "view": "clear",
+ "seconds": 12.0
+}

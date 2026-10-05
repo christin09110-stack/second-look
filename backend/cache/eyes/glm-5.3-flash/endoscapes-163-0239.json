@@ -1,0 +1,17 @@
+{
+ "file": "endoscapes-163-0239.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  2.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "at most one pale tubular structure; neck obscured by inflamed tissue",
+  "fibrous strands, fat and blood fill the triangle",
+  "plane holds tissue strands and blood, no bare liver strip"
+ ],
+ "instruments": "grasper shaft on left retracting gallbladder; no clip applier or scissors at duct or vessel",
+ "view": "bloody",
+ "seconds": 15.1
+}

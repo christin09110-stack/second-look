@@ -1,0 +1,17 @@
+{
+ "file": "train-190-0739.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  2.0,
+  7.0
+ ],
+ "why": [
+  "only one tube hinted, both not clear of tissue",
+  "fat and fibrous tissue still over/between",
+  "gallbladder lifted, bare liver strip below"
+ ],
+ "instruments": "grasper (left) holding gallbladder; clip applier (right) at a duct/vessel",
+ "view": "clear",
+ "seconds": 11.2
+}

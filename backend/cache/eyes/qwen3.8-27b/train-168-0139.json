@@ -1,0 +1,17 @@
+{
+ "file": "train-168-0139.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  1.0,
+  3.0
+ ],
+ "why": [
+  "one duct-like tube at base, second tube not clear of fat",
+  "yellow fat/fibrous tissue over and between structures",
+  "liver edge seen but no clear bare plate strip"
+ ],
+ "instruments": "single white-shafted dissecting instrument, tip in triangle; no clip applier or scissors seen",
+ "view": "clear",
+ "seconds": 13.0
+}

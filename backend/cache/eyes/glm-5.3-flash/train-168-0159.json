@@ -1,0 +1,17 @@
+{
+ "file": "train-168-0159.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  2.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "dissected window present but no two distinct tubes seen entering the neck, fat still covers the area",
+  "yellow fat and fibrous tissue still blanket the triangle and the window",
+  "gallbladder not lifted off liver, no bare cystic plate strip visible"
+ ],
+ "instruments": "fenestrated grasper retracting the gallbladder wall; no clip applier or scissors, nothing at a duct or vessel",
+ "view": "clear",
+ "seconds": 14.7
+}

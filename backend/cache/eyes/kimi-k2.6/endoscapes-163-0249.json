@@ -1,0 +1,17 @@
+{
+ "file": "endoscapes-163-0249.jpg",
+ "model": "moonshotai/Kimi-K2.6",
+ "scores": [
+  1.0,
+  2.0,
+  2.0
+ ],
+ "why": [
+  "no two separate tubes identifiable",
+  "fat and fibrous tissue obscures triangle",
+  "no clear bare cystic plate strip visible"
+ ],
+ "instruments": "none",
+ "view": "clear",
+ "seconds": 37.7
+}

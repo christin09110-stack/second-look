@@ -1,0 +1,17 @@
+{
+ "file": "train-190-0734.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  2.0,
+  2.0,
+  6.0
+ ],
+ "why": [
+  "one fat-covered tissue band enters neck; no two separate tubes seen",
+  "fibrous and fatty tissue still covers triangle between tubes and liver",
+  "gallbladder lifted with liver strip showing, but pale patches not fully bare"
+ ],
+ "instruments": "grasper holding gallbladder neck left; bright glare right, no clip applier or scissors at duct",
+ "view": "clear with strong light glare on right",
+ "seconds": 27.0
+}

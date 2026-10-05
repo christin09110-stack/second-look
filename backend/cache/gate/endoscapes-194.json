@@ -1,0 +1,123 @@
+{
+ "case": "endoscapes-194",
+ "decision": {
+  "frames": [
+   {
+    "i": 0,
+    "c1": "not_met",
+    "c2": "not_met",
+    "c3": "not_met",
+    "action": "silent",
+    "note": "C1 not met, C2 not met, C3 not met"
+   },
+   {
+    "i": 1,
+    "c1": "not_met",
+    "c2": "not_met",
+    "c3": "met",
+    "action": "log",
+    "note": "C3 met: plate exposed; C1,C2 not met"
+   },
+   {
+    "i": 2,
+    "c1": "not_met",
+    "c2": "not_met",
+    "c3": "met",
+    "action": "silent",
+    "note": "C1 not met, C2 not met, C3 met"
+   },
+   {
+    "i": 3,
+    "c1": "not_met",
+    "c2": "met",
+    "c3": "met",
+    "action": "log",
+    "note": "C2 met: triangle cleared; C1 not met; C3 met"
+   },
+   {
+    "i": 4,
+    "c1": "met",
+    "c2": "met",
+    "c3": "met",
+    "action": "log",
+    "note": "C1 met: duct/artery seen; C2 met; C3 met"
+   },
+   {
+    "i": 5,
+    "c1": "met",
+    "c2": "met",
+    "c3": "not_met",
+    "action": "speak",
+    "note": "Two of three. Cystic plate not exposed"
+   },
+   {
+    "i": 6,
+    "c1": "met",
+    "c2": "met",
+    "c3": "met",
+    "action": "log",
+    "note": "C3 met: plate exposed; C1,C2 met"
+   },
+   {
+    "i": 7,
+    "c1": "met",
+    "c2": "met",
+    "c3": "not_met",
+    "action": "log",
+    "note": "C3 not met: plate not exposed; C1,C2 met"
+   },
+   {
+    "i": 8,
+    "c1": "met",
+    "c2": "met",
+    "c3": "met",
+    "action": "silent",
+    "note": "All three criteria met"
+   },
+   {
+    "i": 9,
+    "c1": "met",
+    "c2": "met",
+    "c3": "not_met",
+    "action": "speak",
+    "note": "Two of three. Cystic plate not exposed"
+   },
+   {
+    "i": 10,
+    "c1": "met",
+    "c2": "met",
+    "c3": "met",
+    "action": "silent",
+    "note": "All three criteria met"
+   },
+   {
+    "i": 11,
+    "c1": "met",
+    "c2": "met",
+    "c3": "met",
+    "action": "silent",
+    "note": "All three criteria met"
+   }
+  ],
+  "gate": {
+   "verdict": "clear",
+   "c1": "met",
+   "c2": "met",
+   "c3": "met",
+   "message": "Clear. All three criteria met."
+  }
+ },
+ "audit": {
+  "verdict": "clear",
+  "changed": false,
+  "debrief": "All three criteria were met: duct visualized, triangle cleared, cystic plate exposed. The gate correctly cleared with all requirements fully satisfied for the laparoscopic cholecystectomy procedure at this moment successfully."
+ },
+ "models": {
+  "eyes": [
+   "Qwen/Qwen3.8-27B",
+   "zai-org/GLM-5.3-Flash"
+  ],
+  "gate": "nvidia/nemotron-3-super-120b-a12b",
+  "audit": "nvidia/Nemotron-3-Ultra-550b-a55b"
+ }
+}

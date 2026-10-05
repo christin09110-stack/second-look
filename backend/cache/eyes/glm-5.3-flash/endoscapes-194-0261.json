@@ -1,0 +1,17 @@
+{
+ "file": "endoscapes-194-0261.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  2.0,
+  2.0,
+  3.0
+ ],
+ "why": [
+  "only one vague tubular structure near neck; duct and artery not seen as separate tubes",
+  "yellow fat and fibrous tissue still fill the triangle around the dissected window",
+  "gallbladder still adherent to liver; dark area is blood/early dissection, not a bare cystic plate strip"
+ ],
+ "instruments": "grasper holding gallbladder fundus upper left; dissector/grasper from right near the neck window, not clearly a clip applier or scissors on duct or vessel",
+ "view": "clear",
+ "seconds": 18.4
+}

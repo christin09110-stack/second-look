@@ -1,0 +1,17 @@
+{
+ "file": "endoscapes-163-0234.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  1.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "no two distinct clear tubes; blood and fat obscure the neck",
+  "fat lobules, fibrous tissue and a bloody patch fill the triangle",
+  "no bare liver strip; gallbladder not lifted off the liver"
+ ],
+ "instruments": "single dissecting instrument (white shaft) with tip in the triangle; no clip applier or scissors identifiable at a duct/vessel",
+ "view": "clear",
+ "seconds": 10.1
+}

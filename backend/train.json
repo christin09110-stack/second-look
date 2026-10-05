@@ -1,0 +1,472 @@
+[
+ {
+  "case": "train-168",
+  "t": 119,
+  "file": "train-168-0119.jpg",
+  "raters": [
+   2,
+   1,
+   1
+  ]
+ },
+ {
+  "case": "train-168",
+  "t": 124,
+  "file": "train-168-0124.jpg",
+  "raters": [
+   1,
+   1,
+   2
+  ]
+ },
+ {
+  "case": "train-168",
+  "t": 129,
+  "file": "train-168-0129.jpg",
+  "raters": [
+   3,
+   3,
+   2
+  ]
+ },
+ {
+  "case": "train-168",
+  "t": 134,
+  "file": "train-168-0134.jpg",
+  "raters": [
+   3,
+   3,
+   2
+  ]
+ },
+ {
+  "case": "train-168",
+  "t": 139,
+  "file": "train-168-0139.jpg",
+  "raters": [
+   3,
+   3,
+   2
+  ]
+ },
+ {
+  "case": "train-168",
+  "t": 144,
+  "file": "train-168-0144.jpg",
+  "raters": [
+   3,
+   3,
+   2
+  ]
+ },
+ {
+  "case": "train-168",
+  "t": 149,
+  "file": "train-168-0149.jpg",
+  "raters": [
+   3,
+   3,
+   2
+  ]
+ },
+ {
+  "case": "train-168",
+  "t": 154,
+  "file": "train-168-0154.jpg",
+  "raters": [
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "case": "train-168",
+  "t": 159,
+  "file": "train-168-0159.jpg",
+  "raters": [
+   3,
+   3,
+   2
+  ]
+ },
+ {
+  "case": "train-168",
+  "t": 164,
+  "file": "train-168-0164.jpg",
+  "raters": [
+   3,
+   3,
+   2
+  ]
+ },
+ {
+  "case": "train-168",
+  "t": 169,
+  "file": "train-168-0169.jpg",
+  "raters": [
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "case": "train-168",
+  "t": 174,
+  "file": "train-168-0174.jpg",
+  "raters": [
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "case": "train-168",
+  "t": 179,
+  "file": "train-168-0179.jpg",
+  "raters": [
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "case": "train-168",
+  "t": 184,
+  "file": "train-168-0184.jpg",
+  "raters": [
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "case": "train-168",
+  "t": 189,
+  "file": "train-168-0189.jpg",
+  "raters": [
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "case": "train-168",
+  "t": 194,
+  "file": "train-168-0194.jpg",
+  "raters": [
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "case": "train-168",
+  "t": 199,
+  "file": "train-168-0199.jpg",
+  "raters": [
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "case": "train-168",
+  "t": 204,
+  "file": "train-168-0204.jpg",
+  "raters": [
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "case": "train-168",
+  "t": 214,
+  "file": "train-168-0214.jpg",
+  "raters": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "case": "train-168",
+  "t": 219,
+  "file": "train-168-0219.jpg",
+  "raters": [
+   1,
+   1,
+   3
+  ]
+ },
+ {
+  "case": "train-168",
+  "t": 224,
+  "file": "train-168-0224.jpg",
+  "raters": [
+   1,
+   1,
+   3
+  ]
+ },
+ {
+  "case": "train-168",
+  "t": 229,
+  "file": "train-168-0229.jpg",
+  "raters": [
+   1,
+   1,
+   3
+  ]
+ },
+ {
+  "case": "train-168",
+  "t": 234,
+  "file": "train-168-0234.jpg",
+  "raters": [
+   2,
+   2,
+   3
+  ]
+ },
+ {
+  "case": "train-168",
+  "t": 239,
+  "file": "train-168-0239.jpg",
+  "raters": [
+   2,
+   2,
+   3
+  ]
+ },
+ {
+  "case": "train-168",
+  "t": 244,
+  "file": "train-168-0244.jpg",
+  "raters": [
+   3,
+   3,
+   2
+  ]
+ },
+ {
+  "case": "train-190",
+  "t": 634,
+  "file": "train-190-0634.jpg",
+  "raters": [
+   0,
+   0,
+   3
+  ]
+ },
+ {
+  "case": "train-190",
+  "t": 639,
+  "file": "train-190-0639.jpg",
+  "raters": [
+   0,
+   0,
+   3
+  ]
+ },
+ {
+  "case": "train-190",
+  "t": 644,
+  "file": "train-190-0644.jpg",
+  "raters": [
+   0,
+   0,
+   2
+  ]
+ },
+ {
+  "case": "train-190",
+  "t": 649,
+  "file": "train-190-0649.jpg",
+  "raters": [
+   0,
+   0,
+   1
+  ]
+ },
+ {
+  "case": "train-190",
+  "t": 654,
+  "file": "train-190-0654.jpg",
+  "raters": [
+   1,
+   0,
+   2
+  ]
+ },
+ {
+  "case": "train-190",
+  "t": 659,
+  "file": "train-190-0659.jpg",
+  "raters": [
+   1,
+   0,
+   2
+  ]
+ },
+ {
+  "case": "train-190",
+  "t": 664,
+  "file": "train-190-0664.jpg",
+  "raters": [
+   0,
+   0,
+   1
+  ]
+ },
+ {
+  "case": "train-190",
+  "t": 669,
+  "file": "train-190-0669.jpg",
+  "raters": [
+   1,
+   0,
+   2
+  ]
+ },
+ {
+  "case": "train-190",
+  "t": 679,
+  "file": "train-190-0679.jpg",
+  "raters": [
+   1,
+   0,
+   3
+  ]
+ },
+ {
+  "case": "train-190",
+  "t": 684,
+  "file": "train-190-0684.jpg",
+  "raters": [
+   2,
+   2,
+   3
+  ]
+ },
+ {
+  "case": "train-190",
+  "t": 689,
+  "file": "train-190-0689.jpg",
+  "raters": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "case": "train-190",
+  "t": 694,
+  "file": "train-190-0694.jpg",
+  "raters": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "case": "train-190",
+  "t": 699,
+  "file": "train-190-0699.jpg",
+  "raters": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "case": "train-190",
+  "t": 704,
+  "file": "train-190-0704.jpg",
+  "raters": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "case": "train-190",
+  "t": 709,
+  "file": "train-190-0709.jpg",
+  "raters": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "case": "train-190",
+  "t": 714,
+  "file": "train-190-0714.jpg",
+  "raters": [
+   2,
+   2,
+   3
+  ]
+ },
+ {
+  "case": "train-190",
+  "t": 719,
+  "file": "train-190-0719.jpg",
+  "raters": [
+   2,
+   3,
+   3
+  ]
+ },
+ {
+  "case": "train-190",
+  "t": 729,
+  "file": "train-190-0729.jpg",
+  "raters": [
+   2,
+   3,
+   3
+  ]
+ },
+ {
+  "case": "train-190",
+  "t": 734,
+  "file": "train-190-0734.jpg",
+  "raters": [
+   2,
+   3,
+   3
+  ]
+ },
+ {
+  "case": "train-190",
+  "t": 739,
+  "file": "train-190-0739.jpg",
+  "raters": [
+   2,
+   3,
+   3
+  ]
+ },
+ {
+  "case": "train-190",
+  "t": 744,
+  "file": "train-190-0744.jpg",
+  "raters": [
+   2,
+   3,
+   3
+  ]
+ },
+ {
+  "case": "train-190",
+  "t": 749,
+  "file": "train-190-0749.jpg",
+  "raters": [
+   2,
+   2,
+   2
+  ]
+ }
+]

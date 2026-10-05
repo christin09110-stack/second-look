@@ -1,0 +1,17 @@
+{
+ "file": "sages-144fef8d-035.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  2.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "one pale tubular structure near neck, artery not seen as separate tube, tissue still covering",
+  "yellow fibrofatty tissue still overlies the triangle between neck and liver",
+  "gallbladder not lifted off liver, no bare cystic plate strip visible"
+ ],
+ "instruments": "grasper on left, hook dissector tip at gallbladder neck; no clip applier or scissors",
+ "view": "clear",
+ "seconds": 20.3
+}

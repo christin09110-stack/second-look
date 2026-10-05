@@ -1,0 +1,17 @@
+{
+ "file": "sages-0041dfb1-075.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  1.0,
+  0.0,
+  1.0
+ ],
+ "why": [
+  "no two distinct tubes at gallbladder neck; neck obscured by fat and instruments",
+  "hepatocystic triangle filled with yellow fat, no clean triangle",
+  "gallbladder retracted but no bare liver strip visible between it and liver"
+ ],
+ "instruments": "hinged-jaw applier/grasper from upper right and a thin dissecting tip from left, both at the gallbladder neck/fat; none clearly at a duct or vessel",
+ "view": "clear",
+ "seconds": 7.7
+}

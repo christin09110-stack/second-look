@@ -1,0 +1,17 @@
+{
+ "file": "train-190-0639.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  2.0,
+  6.0
+ ],
+ "why": [
+  "one pale tube clear on right; second tube not distinct, central cavity messy",
+  "yellow fat/fibrous tissue over and between structures in triangle",
+  "bare liver strip lower-left, gallbladder off to right but interface partly obscured"
+ ],
+ "instruments": "single gray instrument shaft (grasper/suction type) with tip resting on the pale duct; clip applier vs scissors not determinable",
+ "view": "clear",
+ "seconds": 10.7
+}

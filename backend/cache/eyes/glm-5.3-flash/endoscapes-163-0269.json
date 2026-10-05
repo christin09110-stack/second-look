@@ -1,0 +1,17 @@
+{
+ "file": "endoscapes-163-0269.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  0.0,
+  0.0,
+  2.0
+ ],
+ "why": [
+  "no duct or artery seen; field covered in fat and omentum, gallbladder neck not defined",
+  "hepatocystic triangle buried under abundant yellow fat and fibrous tissue",
+  "gallbladder retracted up-right but no bare cystic plate strip; liver surface looks intact, plane not opened"
+ ],
+ "instruments": "grasper/dissector holding fatty tissue near gallbladder; no clip applier or scissors at duct or vessel",
+ "view": "clear",
+ "seconds": 12.9
+}

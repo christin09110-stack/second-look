@@ -1,0 +1,17 @@
+{
+ "file": "sages-0041dfb1-030.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  1.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "no two separate clear tubes; neck obscured by instruments and blood",
+  "yellow fat and tissue still fill the triangle, not bare",
+  "no bare liver strip seen between gallbladder and liver edge"
+ ],
+ "instruments": "blue suction/dissector (top right) and gray grasper/clip applier (bottom left); tip at bleeding neck but not clearly on a duct or vessel",
+ "view": "clear",
+ "seconds": 12.9
+}

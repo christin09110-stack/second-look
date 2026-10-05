@@ -1,0 +1,17 @@
+{
+ "file": "sages-144fef8d-050.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  2.0,
+  1.0,
+  4.0
+ ],
+ "why": [
+  "one pale tube crosses the field but no second distinct tube, both buried in fibrous tissue",
+  "hepatocystic triangle filled with yellow fibrofatty tissue over and around the tubes",
+  "gallbladder retracted up-left with dark liver below, but no clean bare cystic plate strip, tissue still covers the plane"
+ ],
+ "instruments": "fenestrated grasper on gallbladder at left; hook/spatula dissector with blood on tip actively dissecting at the triangle near the tube; no clip applier or scissors",
+ "view": "clear (dark exposure)",
+ "seconds": 17.7
+}

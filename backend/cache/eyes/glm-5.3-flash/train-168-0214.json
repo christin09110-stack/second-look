@@ -1,0 +1,17 @@
+{
+ "file": "train-168-0214.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  1.0,
+  1.0,
+  1.0
+ ],
+ "why": [
+  "no two distinct tubes entering neck, only a dissected tissue window",
+  "abundant fat and fibrous tissue still cover the triangle",
+  "no bare liver strip, gallbladder still seated on liver"
+ ],
+ "instruments": "grasper on gallbladder fundus and L-hook dissector near tissue; no clip applier or scissors at duct or vessel",
+ "view": "clear with some blood staining",
+ "seconds": 14.0
+}

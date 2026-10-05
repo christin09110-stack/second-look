@@ -1,0 +1,17 @@
+{
+ "file": "endoscapes-194-0226.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  1.0,
+  0.0,
+  1.0
+ ],
+ "why": [
+  "no two distinct tubes seen entering the neck; area covered by fibrous tissue and a dark dissected hole",
+  "yellow fat and fibrous bands still fill the triangle, vessels crossing",
+  "gallbladder still apposed to liver, no bare cystic plate strip visible"
+ ],
+ "instruments": "grasper at left edge near gallbladder neck; no clip applier or scissors at a duct or vessel",
+ "view": "clear",
+ "seconds": 24.6
+}

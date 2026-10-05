@@ -1,0 +1,17 @@
+{
+ "file": "sages-144fef8d-075.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  2.0,
+  2.0,
+  3.0
+ ],
+ "why": [
+  "only one pale tubular structure; no second separate tube seen",
+  "yellow fat and fibrous strands still cover the triangle",
+  "tissue still bridges gallbladder and liver, no bare strip"
+ ],
+ "instruments": "metallic grasper tip at left edge, away from duct; no clip applier or scissors at duct",
+ "view": "clear but dim",
+ "seconds": 16.6
+}

@@ -1,0 +1,17 @@
+{
+ "file": "sages-0041dfb1-070.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  1.0,
+  0.0,
+  1.0
+ ],
+ "why": [
+  "no separate duct or artery seen; neck region buried in fat",
+  "hepatocystic triangle covered by yellow omental fat, not dissected",
+  "gallbladder not lifted off liver, no bare cystic plate strip"
+ ],
+ "instruments": "metallic clip applier/grasper at gallbladder neck but not clearly on a duct or vessel; LOTUS suction/dissector tip near neck from lower left",
+ "view": "clear",
+ "seconds": 15.7
+}

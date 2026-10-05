@@ -1,0 +1,17 @@
+{
+ "file": "train-168-0164.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  3.0,
+  2.0,
+  2.0
+ ],
+ "why": [
+  "one tubular structure near neck, but duct and artery not clearly separate; yellow tissue obscures the neck",
+  "obvious yellow fat and fibrous tissue still covering the triangle and window",
+  "gallbladder still adherent to liver, no bare cystic plate strip visible"
+ ],
+ "instruments": "fenestrated grasper at left edge on gallbladder, not at duct or vessel; no clip applier or scissors visible",
+ "view": "clear",
+ "seconds": 18.3
+}

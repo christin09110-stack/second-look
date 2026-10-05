@@ -1,0 +1,17 @@
+{
+ "file": "sages-280aaeb3-045.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  1.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "no two distinct clear tubes at the neck",
+  "triangle obscured, fat/fibrous tissue remains",
+  "no bare liver strip between GB and liver"
+ ],
+ "instruments": "crocodile grasper (left port) per UI; right port empty; none seen at a duct or vessel",
+ "view": "bloody",
+ "seconds": 10.2
+}

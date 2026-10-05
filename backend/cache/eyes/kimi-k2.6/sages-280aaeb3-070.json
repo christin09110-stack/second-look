@@ -1,0 +1,17 @@
+{
+ "file": "sages-280aaeb3-070.jpg",
+ "model": "moonshotai/Kimi-K2.6",
+ "scores": [
+  0.0,
+  0.0,
+  1.0
+ ],
+ "why": [
+  "no separate cystic duct or artery visible through blood",
+  "hepatocystic triangle obscured by blood and tissue",
+  "bloody field with no clear cystic plate visible"
+ ],
+ "instruments": "Crocodile Grasper; no clip applier or scissors at duct or vessel",
+ "view": "bloody",
+ "seconds": 26.2
+}

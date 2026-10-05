@@ -1,0 +1,17 @@
+{
+ "file": "train-190-0669.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  1.0,
+  6.0
+ ],
+ "why": [
+  "no two distinct clear tubes; tissue sheet at neck",
+  "fibrous/fat tissue still fills the triangle",
+  "gallbladder retracted, bare liver surface below"
+ ],
+ "instruments": "grasper on left holding the neck; dark shaft (clip applier/dissector) on right with tip at tissue near a possible duct \u2013 cannot confirm clip applier vs scissors",
+ "view": "clear",
+ "seconds": 8.1
+}

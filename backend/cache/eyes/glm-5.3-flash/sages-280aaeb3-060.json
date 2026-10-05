@@ -1,0 +1,17 @@
+{
+ "file": "sages-280aaeb3-060.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  2.0,
+  1.0,
+  1.0
+ ],
+ "why": [
+  "at most one pale tubular structure; no two separate tubes entering a gallbladder neck",
+  "yellow fat and fibrous tissue still cover the dissection area",
+  "no clear strip of bare liver between gallbladder and liver; anatomy obscured"
+ ],
+ "instruments": "none visible in field; robotic overlay reads Crocodile Grasper / no instrument installed",
+ "view": "dark and smoky",
+ "seconds": 20.5
+}

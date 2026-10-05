@@ -1,0 +1,17 @@
+{
+ "file": "train-190-0634.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  2.0,
+  6.0
+ ],
+ "why": [
+  "one pale tube near tip; second tube not separate/clear",
+  "fat and fibrous web still fill the triangle",
+  "gallbladder lifted, bare liver strip shows below"
+ ],
+ "instruments": "dissecting instrument at a tube; no clip applier or scissors",
+ "view": "clear",
+ "seconds": 11.8
+}

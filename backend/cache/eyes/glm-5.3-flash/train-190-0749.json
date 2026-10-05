@@ -1,0 +1,17 @@
+{
+ "file": "train-190-0749.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  2.0,
+  2.0,
+  5.0
+ ],
+ "why": [
+  "one whitish duct-like tube at dissector tip, artery not seen, neck covered in fat",
+  "yellow fat and fibrous tissue still coat the neck and fill the triangle",
+  "gallbladder lifted with some bare liver below, but strip not clean and neck still attached"
+ ],
+ "instruments": "atraumatic grasper holding gallbladder neck; dissector tip at duct area; no clip applier or scissors evident",
+ "view": "clear",
+ "seconds": 28.8
+}

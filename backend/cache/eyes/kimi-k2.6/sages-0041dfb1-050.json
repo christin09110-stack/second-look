@@ -1,0 +1,17 @@
+{
+ "file": "sages-0041dfb1-050.jpg",
+ "model": "moonshotai/Kimi-K2.6",
+ "scores": [
+  1.0,
+  0.0,
+  1.0
+ ],
+ "why": [
+  "no separate duct or artery identifiable",
+  "triangle obscured by tissue and blood",
+  "gallbladder still in liver bed, no bare strip visible"
+ ],
+ "instruments": "grasper at gallbladder neck; no clip applier or scissors",
+ "view": "bloody",
+ "seconds": 39.7
+}

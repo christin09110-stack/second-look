@@ -1,0 +1,17 @@
+{
+ "file": "sages-144fef8d-060.jpg",
+ "model": "moonshotai/Kimi-K2.6",
+ "scores": [
+  0.0,
+  0.0,
+  3.0
+ ],
+ "why": [
+  "no separate duct or artery seen",
+  "fat and fibrous tissue remain",
+  "no clear cystic plate strip"
+ ],
+ "instruments": "grasper and cautery/dissection instrument; neither at a duct or vessel",
+ "view": "clear",
+ "seconds": 122.3
+}

@@ -1,0 +1,123 @@
+{
+ "case": "endoscapes-163",
+ "decision": {
+  "frames": [
+   {
+    "i": 0,
+    "c1": "not_met",
+    "c2": "not_met",
+    "c3": "not_met",
+    "action": "silent",
+    "note": "No criteria met; no clipping instruments seen."
+   },
+   {
+    "i": 1,
+    "c1": "not_met",
+    "c2": "met",
+    "c3": "not_met",
+    "action": "log",
+    "note": "Cystic triangle now cleared; C1,C3 not met."
+   },
+   {
+    "i": 2,
+    "c1": "not_met",
+    "c2": "not_met",
+    "c3": "not_met",
+    "action": "log",
+    "note": "Cystic triangle no longer cleared; C1,C3 still not met."
+   },
+   {
+    "i": 3,
+    "c1": "not_met",
+    "c2": "not_met",
+    "c3": "not_met",
+    "action": "silent",
+    "note": "No criteria changed; still none met."
+   },
+   {
+    "i": 4,
+    "c1": "not_met",
+    "c2": "not_met",
+    "c3": "not_met",
+    "action": "silent",
+    "note": "No criteria changed; still none met."
+   },
+   {
+    "i": 5,
+    "c1": "not_met",
+    "c2": "not_met",
+    "c3": "not_met",
+    "action": "silent",
+    "note": "No criteria changed; still none met."
+   },
+   {
+    "i": 6,
+    "c1": "not_met",
+    "c2": "not_met",
+    "c3": "not_met",
+    "action": "silent",
+    "note": "No criteria changed; still none met."
+   },
+   {
+    "i": 7,
+    "c1": "not_met",
+    "c2": "not_met",
+    "c3": "not_met",
+    "action": "silent",
+    "note": "No criteria changed; still none met."
+   },
+   {
+    "i": 8,
+    "c1": "not_met",
+    "c2": "not_met",
+    "c3": "not_met",
+    "action": "speak",
+    "note": "None of three criteria met; clip applier at duct/vessel."
+   },
+   {
+    "i": 9,
+    "c1": "not_met",
+    "c2": "not_met",
+    "c3": "not_met",
+    "action": "speak",
+    "note": "None of three criteria met; clip applier at duct/vessel."
+   },
+   {
+    "i": 10,
+    "c1": "not_met",
+    "c2": "not_met",
+    "c3": "not_met",
+    "action": "speak",
+    "note": "None of three criteria met; clip applier at duct/vessel."
+   },
+   {
+    "i": 11,
+    "c1": "not_met",
+    "c2": "not_met",
+    "c3": "not_met",
+    "action": "speak",
+    "note": "None of three criteria met; decision point reached."
+   }
+  ],
+  "gate": {
+   "verdict": "hold",
+   "c1": "not_met",
+   "c2": "not_met",
+   "c3": "not_met",
+   "message": "Hold. C1 not met; C2 not met; C3 not met."
+  }
+ },
+ "audit": {
+  "verdict": "hold",
+  "changed": false,
+  "debrief": "All three criteria unmet at decision point. Expose cystic duct clearly to verify triangle clearance, duct identification, and safe clipping readiness."
+ },
+ "models": {
+  "eyes": [
+   "Qwen/Qwen3.8-27B",
+   "zai-org/GLM-5.3-Flash"
+  ],
+  "gate": "nvidia/nemotron-3-super-120b-a12b",
+  "audit": "nvidia/Nemotron-3-Ultra-550b-a55b"
+ }
+}

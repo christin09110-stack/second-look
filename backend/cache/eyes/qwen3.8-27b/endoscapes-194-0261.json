@@ -1,0 +1,17 @@
+{
+ "file": "endoscapes-194-0261.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  2.0,
+  7.0
+ ],
+ "why": [
+  "only one tube clear at right instrument; second tube not delineated",
+  "whitish fat/fibrous tissue still over the triangle",
+  "gallbladder retracted, bare liver strip shows below it"
+ ],
+ "instruments": "left grasper at gallbladder neck; right clip applier/grasper jaws at a duct/vessel",
+ "view": "clear",
+ "seconds": 8.9
+}

@@ -1,0 +1,17 @@
+{
+ "file": "sages-280aaeb3-050.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  1.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "no two distinct tubes at the neck",
+  "fat/fibrous tissue fills the triangle, not clean",
+  "gallbladder not lifted to reveal a bare liver strip"
+ ],
+ "instruments": "crocodile grasper (forceps) per on-screen label; no clip applier or scissors at a duct or vessel visible",
+ "view": "clear",
+ "seconds": 8.8
+}

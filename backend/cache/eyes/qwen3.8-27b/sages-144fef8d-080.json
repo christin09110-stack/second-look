@@ -1,0 +1,17 @@
+{
+ "file": "sages-144fef8d-080.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  3.0,
+  2.0,
+  2.0
+ ],
+ "why": [
+  "one tube clear, second not separate",
+  "yellow fat/fibrous tissue in triangle",
+  "no bare liver strip; GB not lifted"
+ ],
+ "instruments": "clip applier at left edge; none at a duct/vessel",
+ "view": "clear",
+ "seconds": 16.2
+}

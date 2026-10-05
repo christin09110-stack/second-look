@@ -1,0 +1,17 @@
+{
+ "file": "sages-144fef8d-085.jpg",
+ "model": "moonshotai/Kimi-K2.6",
+ "scores": [
+  0.0,
+  0.0,
+  0.0
+ ],
+ "why": [
+  "no duct or artery seen",
+  "triangle not visible",
+  "no bare cystic plate strip"
+ ],
+ "instruments": "grasper only",
+ "view": "clear",
+ "seconds": 100.1
+}

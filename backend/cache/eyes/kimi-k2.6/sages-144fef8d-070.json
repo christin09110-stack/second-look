@@ -1,0 +1,17 @@
+{
+ "file": "sages-144fef8d-070.jpg",
+ "model": "moonshotai/Kimi-K2.6",
+ "scores": [
+  1.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "no two separate clear tubes",
+  "fat and fibrous tissue remains",
+  "no clear cystic plate visible"
+ ],
+ "instruments": "grasper and hook cautery; no clip applier or scissors at duct or vessel",
+ "view": "clear but dark",
+ "seconds": 54.6
+}

@@ -1,0 +1,17 @@
+{
+ "file": "train-190-0679.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  2.0,
+  6.0
+ ],
+ "why": [
+  "only one tube at instrument tip, second not distinct",
+  "yellow fat/fibrous tissue still over triangle",
+  "gallbladder lifted, bare liver strip shows below"
+ ],
+ "instruments": "clip applier (top) holding tissue; dark dissecting instrument tip at the cystic duct/artery",
+ "view": "clear",
+ "seconds": 13.7
+}

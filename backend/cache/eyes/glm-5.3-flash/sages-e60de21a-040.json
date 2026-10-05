@@ -1,0 +1,17 @@
+{
+ "file": "sages-e60de21a-040.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  1.0,
+  0.0,
+  1.0
+ ],
+ "why": [
+  "no separate duct or artery seen; neck buried in fat and tissue",
+  "hepatocystic triangle covered with yellow fat and fibrous tissue",
+  "gallbladder not lifted; no bare liver strip visible beneath"
+ ],
+ "instruments": "two graspers/dissctors on gallbladder and adhesions; no clip applier or scissors at duct or vessel",
+ "view": "blurred",
+ "seconds": 10.4
+}

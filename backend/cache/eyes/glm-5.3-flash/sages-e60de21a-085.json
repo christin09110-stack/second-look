@@ -1,0 +1,17 @@
+{
+ "file": "sages-e60de21a-085.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  2.0,
+  3.0,
+  6.0
+ ],
+ "why": [
+  "one skeletonized tube (duct) clear of tissue, but no second separate arterial tube visible",
+  "duct dissected clean but fat/omentum at right and fibrous tissue at neck remain in triangle",
+  "broad shiny liver bed exposed below lifted dark gallbladder remnant, though not a crisp strip"
+ ],
+ "instruments": "clip applier with white polymer clip at the duct from the right; black-shaft grasper/hook on the left",
+ "view": "clear, minor blood at bottom edge",
+ "seconds": 22.0
+}

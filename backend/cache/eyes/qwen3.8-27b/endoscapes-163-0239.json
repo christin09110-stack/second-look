@@ -1,0 +1,17 @@
+{
+ "file": "endoscapes-163-0239.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "one pale tube only, second not delineated",
+  "fat/fibrous tissue over the triangle",
+  "no bare liver strip between GB and liver"
+ ],
+ "instruments": "grasper/clip applier at left edge; not clearly at a duct or vessel (none)",
+ "view": "clear",
+ "seconds": 9.0
+}

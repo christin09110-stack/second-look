@@ -1,0 +1,17 @@
+{
+ "file": "sages-144fef8d-075.jpg",
+ "model": "moonshotai/Kimi-K2.6",
+ "scores": [
+  2.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "no two separate duct and artery visible",
+  "fat and fibrous tissue remain in hepatocystic triangle",
+  "no clear bare cystic plate between gallbladder and liver"
+ ],
+ "instruments": "grasper; no clip applier or scissors at duct or vessel",
+ "view": "clear",
+ "seconds": 50.5
+}

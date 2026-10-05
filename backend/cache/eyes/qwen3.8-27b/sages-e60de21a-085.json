@@ -1,0 +1,17 @@
+{
+ "file": "sages-e60de21a-085.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  2.0,
+  3.0
+ ],
+ "why": [
+  "one tube visible, second obscured by instruments",
+  "fat and fibrous tissue remain over the triangle",
+  "no clear strip of bare liver plate between GB and liver"
+ ],
+ "instruments": "grasper on left; clip applier on right with a clip at a duct/vessel",
+ "view": "slightly blurred",
+ "seconds": 10.3
+}

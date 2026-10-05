@@ -1,0 +1,17 @@
+{
+ "file": "train-168-0189.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  1.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "no separate duct/artery tubes seen at neck",
+  "triangle not opened, no bare tubes",
+  "gallbladder not lifted, no bare liver strip"
+ ],
+ "instruments": "none",
+ "view": "clear",
+ "seconds": 9.3
+}

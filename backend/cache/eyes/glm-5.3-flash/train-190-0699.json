@@ -1,0 +1,17 @@
+{
+ "file": "train-190-0699.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  2.0,
+  2.0,
+  3.0
+ ],
+ "why": [
+  "tubular structures still buried in fat and fibrous tissue, not two clear separate tubes",
+  "yellow fat and fibrous strands still cover the triangle",
+  "dissection plane present but gallbladder not lifted, no clear bare liver strip"
+ ],
+ "instruments": "L-hook dissector dissecting at the gallbladder neck area; no clip applier or scissors",
+ "view": "clear",
+ "seconds": 18.1
+}

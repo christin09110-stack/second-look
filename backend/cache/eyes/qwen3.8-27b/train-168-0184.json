@@ -1,0 +1,17 @@
+{
+ "file": "train-168-0184.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  1.0,
+  1.0,
+  1.0
+ ],
+ "why": [
+  "no two distinct clear tubes; view obscured",
+  "yellow fat/fibrous tissue over triangle",
+  "no bare liver strip visible"
+ ],
+ "instruments": "large shaft/flare blocking view; two small dark points, cannot tell if at a duct",
+ "view": "blurred",
+ "seconds": 7.8
+}

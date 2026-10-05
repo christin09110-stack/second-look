@@ -1,0 +1,17 @@
+{
+ "file": "train-190-0684.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  2.0,
+  2.0,
+  5.0
+ ],
+ "why": [
+  "only one tubular structure apparent in dissected area, artery not separately defined",
+  "fibrofatty tissue still covers and fills the triangle around the tubes",
+  "gallbladder partly lifted with liver showing beneath, but fibrous attachment remains"
+ ],
+ "instruments": "atraumatic grasper holding infundibulum on left, L-hook dissector dissecting at the neck on right; no clip applier or scissors",
+ "view": "clear",
+ "seconds": 19.7
+}

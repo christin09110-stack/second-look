@@ -1,0 +1,17 @@
+{
+ "file": "train-168-0229.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  1.0,
+  0.0,
+  3.0
+ ],
+ "why": [
+  "no two distinct tubes seen; neck region buried in fat and fibrous strands",
+  "yellow fat and fibrous tissue still cover the triangle; only a small dark window opened",
+  "gallbladder lifted by grasper with liver behind, but no clear bare cystic plate strip yet"
+ ],
+ "instruments": "claw grasper retracting gallbladder, L-hook dissector dissecting fat near neck; no clip applier or scissors",
+ "view": "clear",
+ "seconds": 15.9
+}

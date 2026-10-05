@@ -1,0 +1,17 @@
+{
+ "file": "train-168-0234.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  1.0,
+  4.0
+ ],
+ "why": [
+  "only one tube hinted at right, rest hidden by fat",
+  "yellow fat and fibrous tissue over/between the triangle",
+  "gallbladder retracted but no clear bare liver strip"
+ ],
+ "instruments": "clip applier open over the neck; white-tipped dissector at lower right on fat; none clearly at a duct/vessel",
+ "view": "clear",
+ "seconds": 22.3
+}

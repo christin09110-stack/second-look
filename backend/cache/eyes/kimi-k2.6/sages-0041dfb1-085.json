@@ -1,0 +1,17 @@
+{
+ "file": "sages-0041dfb1-085.jpg",
+ "model": "moonshotai/Kimi-K2.6",
+ "scores": [
+  0.0,
+  0.0,
+  1.0
+ ],
+ "why": [
+  "no separate tubes visible",
+  "triangle not exposed, fat and tissue present",
+  "gallbladder fundus grasped but cystic plate not exposed"
+ ],
+ "instruments": "two graspers, one on gallbladder fundus; no clip applier or scissors at duct or vessel",
+ "view": "clear",
+ "seconds": 30.5
+}

@@ -1,0 +1,17 @@
+{
+ "file": "sages-144fef8d-070.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "cystic duct visible below, second tube buried in fat",
+  "yellow fat/fibrous tissue still over the triangle",
+  "gallbladder not lifted, no bare liver strip seen"
+ ],
+ "instruments": "clip applier at left on gallbladder neck; white-tipped dissector at top in upper triangle, not clearly at a duct or vessel",
+ "view": "clear",
+ "seconds": 9.9
+}

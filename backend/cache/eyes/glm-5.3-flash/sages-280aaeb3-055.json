@@ -1,0 +1,17 @@
+{
+ "file": "sages-280aaeb3-055.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  1.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "no two separate tubes identifiable at gallbladder neck; anatomy obscured",
+  "triangle not delineated, fatty/fibrous tissue covers area",
+  "no bare liver cystic plate visible; gallbladder not lifted off liver"
+ ],
+ "instruments": "Crocodile Grasper labeled on overlay but not clearly seen in frame; no clip applier or scissors at duct or vessel",
+ "view": "blurred",
+ "seconds": 16.0
+}

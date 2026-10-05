@@ -1,0 +1,17 @@
+{
+ "file": "endoscapes-194-0226.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  2.0,
+  7.0
+ ],
+ "why": [
+  "only one tube discernible; neck obscured by tissue",
+  "fat/fibrous tissue still over and between structures",
+  "gallbladder lifted, bare liver strip visible below"
+ ],
+ "instruments": "metallic jaw instrument (clip applier/grasper) holding the gallbladder; none at a duct or vessel",
+ "view": "clear",
+ "seconds": 12.8
+}

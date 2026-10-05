@@ -1,0 +1,17 @@
+{
+ "file": "sages-0041dfb1-045.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  1.0,
+  0.0,
+  1.0
+ ],
+ "why": [
+  "no distinct duct or artery seen; neck buried in fat and blood",
+  "triangle filled with fat and bloody tissue, nothing skeletonized",
+  "gallbladder still attached to liver bed, no bare cystic plate strip"
+ ],
+ "instruments": "blue suction/irrigation cannula and a metallic dissector (5907 shaft); dissector tip at bloody dissection site near gallbladder neck, no clip applier or scissors",
+ "view": "clear, minor fresh blood at dissection site",
+ "seconds": 15.9
+}

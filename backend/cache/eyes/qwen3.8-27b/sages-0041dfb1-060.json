@@ -1,0 +1,17 @@
+{
+ "file": "sages-0041dfb1-060.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  1.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "no two distinct clear tubes at the neck",
+  "yellow fat and fibrous tissue plus blood fill the triangle",
+  "gallbladder not lifted; no bare cystic plate strip"
+ ],
+ "instruments": "single fine-tipped dissecting instrument (hook-like) at the reddish tissue near the gallbladder neck; none (cannot tell if a clip applier/scissors is on a duct or vessel)",
+ "view": "clear",
+ "seconds": 10.1
+}

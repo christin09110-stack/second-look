@@ -1,0 +1,17 @@
+{
+ "file": "train-190-0669.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  2.0,
+  2.0,
+  6.0
+ ],
+ "why": [
+  "one whitish duct seen but buried in fibrous strands, no separate artery",
+  "fibrofatty tissue still covers the triangle between tubes and liver",
+  "gallbladder lifted with liver surface showing, but strip incomplete"
+ ],
+ "instruments": "claw grasper holding gallbladder, hook dissector tip near duct, no clip applier or scissors",
+ "view": "clear",
+ "seconds": 20.8
+}

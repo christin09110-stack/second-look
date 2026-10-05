@@ -1,0 +1,17 @@
+{
+ "file": "sages-e60de21a-070.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "fat and instrument shafts obscure; only one tube-like structure discernible",
+  "yellow fat and fibrous tissue still over/between the triangle",
+  "gallbladder not lifted; no bare cystic-plate strip visible"
+ ],
+ "instruments": "grasper (left) and clip applier/dissector (right); none clearly at a duct or vessel (cannot tell)",
+ "view": "clear",
+ "seconds": 13.1
+}

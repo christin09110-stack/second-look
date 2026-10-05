@@ -1,0 +1,17 @@
+{
+ "file": "sages-144fef8d-045.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  2.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "one pale tubular structure partly freed, no separate artery seen",
+  "yellow fibrofatty tissue still covers the triangle",
+  "gallbladder retracted but no bare liver strip exposed"
+ ],
+ "instruments": "grasper on gallbladder at left, hook dissector tip at the neck dissection; no clip applier or scissors",
+ "view": "clear",
+ "seconds": 15.7
+}

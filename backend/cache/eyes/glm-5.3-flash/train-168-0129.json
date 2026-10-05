@@ -1,0 +1,17 @@
+{
+ "file": "train-168-0129.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  2.0,
+  1.0,
+  4.0
+ ],
+ "why": [
+  "one vague tubular structure in window, no two distinct tubes clear of tissue",
+  "abundant yellow fat and fibrous strands still cover the triangle",
+  "gallbladder retracted, some dark liver surface showing but no clear bare cystic plate strip"
+ ],
+ "instruments": "fenestrated grasper holding gallbladder on left, L-hook dissector dissecting at neck; no clip applier or scissors",
+ "view": "clear",
+ "seconds": 17.0
+}

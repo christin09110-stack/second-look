@@ -1,0 +1,17 @@
+{
+ "file": "sages-0041dfb1-065.jpg",
+ "model": "moonshotai/Kimi-K2.6",
+ "scores": [
+  2.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "only one duct-like structure seen, second tube not clear",
+  "fat and fibrous tissue remain throughout triangle",
+  "gallbladder neck still seated on liver, no bare cystic plate visible"
+ ],
+ "instruments": "grasper and clip applier at duct or vessel",
+ "view": "clear",
+ "seconds": 29.8
+}

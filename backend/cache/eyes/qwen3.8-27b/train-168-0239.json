@@ -1,0 +1,17 @@
+{
+ "file": "train-168-0239.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "one pale tube at lower right, no two clear separate tubes",
+  "yellow fat and white fibrous strands fill the triangle",
+  "gallbladder not clearly lifted, no bare liver strip seen"
+ ],
+ "instruments": "clip applier at top gripping neck tissue; white-tipped cautery/grasper at a tube (lower right)",
+ "view": "clear, minor blood",
+ "seconds": 12.7
+}

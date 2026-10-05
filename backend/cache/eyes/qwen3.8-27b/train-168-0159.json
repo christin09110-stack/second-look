@@ -1,0 +1,17 @@
+{
+ "file": "train-168-0159.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "yellow fat over triangle, only one tube discernible",
+  "fat/fibrous tissue still over and between the tubes",
+  "lower GB not lifted, no bare liver strip visible"
+ ],
+ "instruments": "clip applier holding the gallbladder neck; not at a duct or vessel",
+ "view": "clear",
+ "seconds": 14.4
+}

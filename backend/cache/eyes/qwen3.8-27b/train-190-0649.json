@@ -1,0 +1,17 @@
+{
+ "file": "train-190-0649.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  2.0,
+  6.0
+ ],
+ "why": [
+  "one fibrous band, no two clear separate tubes",
+  "fat and fibrous tissue over/between structures",
+  "bare liver strip below lifted GB, only just"
+ ],
+ "instruments": "clip applier (left) holding gallbladder tissue; white-tipped dissecting instrument at the duct/structure; no clip applier or scissors clearly at a duct or vessel",
+ "view": "clear",
+ "seconds": 11.4
+}

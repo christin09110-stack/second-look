@@ -1,0 +1,17 @@
+{
+ "file": "sages-e60de21a-045.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  1.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "no two distinct tubes; only a fibrous band",
+  "fat and fibrous tissue fill the triangle",
+  "no bare liver strip; gallbladder not lifted off"
+ ],
+ "instruments": "grasper (left) and clip applier/scissors (right); none at a duct or vessel",
+ "view": "clear",
+ "seconds": 14.2
+}

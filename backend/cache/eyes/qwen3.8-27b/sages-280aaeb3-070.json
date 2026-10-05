@@ -1,0 +1,17 @@
+{
+ "file": "sages-280aaeb3-070.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  1.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "no two distinct tubes; neck region out of focus",
+  "triangle not visualized; tissue/blur occludes",
+  "no bare liver strip; foreground organ blocks view"
+ ],
+ "instruments": "crocodile grasper (per UI) not at a duct; no clip applier or scissors seen",
+ "view": "blurred, dark with some blood",
+ "seconds": 10.1
+}

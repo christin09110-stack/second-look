@@ -1,0 +1,17 @@
+{
+ "file": "sages-144fef8d-060.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  3.0,
+  2.0
+ ],
+ "why": [
+  "one diagonal tube seen, second not clear",
+  "window opened but yellow fat/fibrous tissue still around edges",
+  "gallbladder not lifted, no bare liver strip visible"
+ ],
+ "instruments": "clip applier at left on gallbladder wall; white-tipped cautery at top of triangle; not clearly at a duct or vessel",
+ "view": "clear (dark)",
+ "seconds": 10.3
+}

@@ -1,0 +1,17 @@
+{
+ "file": "train-168-0149.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  1.0,
+  3.0
+ ],
+ "why": [
+  "one tube partly seen, second obscured by fat",
+  "yellow fat/fibrous tissue over triangle",
+  "no bare liver strip; lower view dark"
+ ],
+ "instruments": "clip applier (left, open) + white-tipped dissector (right); none at a duct/vessel",
+ "view": "clear",
+ "seconds": 12.5
+}

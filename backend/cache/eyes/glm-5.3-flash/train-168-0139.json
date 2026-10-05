@@ -1,0 +1,17 @@
+{
+ "file": "train-168-0139.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  1.0,
+  0.0,
+  1.0
+ ],
+ "why": [
+  "no two separate tubes seen; duct/artery buried in fat near dark window",
+  "abundant yellow fat fills the triangle, no cleared window",
+  "gallbladder not lifted, no bare liver strip, fat still covers the bed"
+ ],
+ "instruments": "hook dissector near the dissected window at gallbladder neck; no clip applier or scissors",
+ "view": "clear",
+ "seconds": 23.2
+}

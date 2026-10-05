@@ -1,0 +1,17 @@
+{
+ "file": "sages-e60de21a-030.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "only one duct-like structure seen, no two clear separate tubes",
+  "yellow fat and fibrous strands still fill the triangle",
+  "no bare liver strip shown between a lifted gallbladder and the liver"
+ ],
+ "instruments": "a long instrument shaft crosses the field diagonally; a jawed instrument (clip applier/grasper) sits at the upper right near a duct-like structure, not clearly at a vessel",
+ "view": "clear",
+ "seconds": 13.5
+}

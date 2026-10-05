@@ -1,0 +1,17 @@
+{
+ "file": "train-168-0229.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "only one tube discernible on right; second obscured by fat and fibrous strand",
+  "yellow fat and fibrous strands fill the triangle",
+  "gallbladder not lifted off liver; no bare cystic-plate strip"
+ ],
+ "instruments": "clip applier at top holding tissue, white-tipped dissector at right near a tube; cannot confirm either is at a duct/vessel",
+ "view": "clear",
+ "seconds": 12.8
+}

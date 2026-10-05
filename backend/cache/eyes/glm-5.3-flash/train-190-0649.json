@@ -1,0 +1,17 @@
+{
+ "file": "train-190-0649.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  1.0,
+  0.0,
+  2.0
+ ],
+ "why": [
+  "only one vague tubular structure, duct and artery not separately skeletonized",
+  "fibrofatty tissue still covers the triangle, dissection in progress",
+  "gallbladder retracted but fibrous strands remain, no bare cystic plate strip"
+ ],
+ "instruments": "grasper holding gallbladder on left, L-hook dissector dissecting fibrous tissue near infundibulum, not clearly on duct or vessel, no clip applier or scissors",
+ "view": "clear",
+ "seconds": 22.6
+}

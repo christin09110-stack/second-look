@@ -1,0 +1,17 @@
+{
+ "file": "train-190-0734.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  6.0,
+  7.0,
+  8.0
+ ],
+ "why": [
+  "two tubes at neck, one partly under clip",
+  "triangle mostly clean, minor fat at neck",
+  "gallbladder lifted, bare liver strip below"
+ ],
+ "instruments": "clip applier grasping the gallbladder neck (at the duct/artery); white-tipped instrument at the liver edge, type unclear",
+ "view": "clear",
+ "seconds": 16.8
+}

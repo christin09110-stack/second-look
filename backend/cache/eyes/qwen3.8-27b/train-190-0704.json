@@ -1,0 +1,17 @@
+{
+ "file": "train-190-0704.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  2.0,
+  6.0
+ ],
+ "why": [
+  "one horizontal duct seen, second tube not clear",
+  "fat and fibrous tissue still over/between structures",
+  "gallbladder lifted, bare liver strip below"
+ ],
+ "instruments": "single instrument (gray shaft, metallic jaws) at the duct; clip applier vs scissors uncertain",
+ "view": "clear",
+ "seconds": 9.9
+}

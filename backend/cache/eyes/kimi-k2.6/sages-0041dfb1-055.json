@@ -1,0 +1,17 @@
+{
+ "file": "sages-0041dfb1-055.jpg",
+ "model": "moonshotai/Kimi-K2.6",
+ "scores": [
+  2.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "no two separate tubes visible",
+  "fat and fibrous tissue obscure triangle",
+  "gallbladder not lifted off liver"
+ ],
+ "instruments": "grasper at gallbladder neck; no clip applier or scissors at duct or vessel",
+ "view": "bloody",
+ "seconds": 38.1
+}

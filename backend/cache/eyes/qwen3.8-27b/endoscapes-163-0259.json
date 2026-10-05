@@ -1,0 +1,17 @@
+{
+ "file": "endoscapes-163-0259.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "one tube at right instrument only, no two clear separate tubes",
+  "fat and fibrous tissue still over/between the triangle",
+  "gallbladder not lifted, no bare liver plate strip visible"
+ ],
+ "instruments": "clip applier (left) holding tissue flap; clip applier (right) at a duct/vessel",
+ "view": "clear",
+ "seconds": 8.3
+}

@@ -1,0 +1,17 @@
+{
+ "file": "train-190-0744.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  2.0,
+  2.0,
+  5.0
+ ],
+ "why": [
+  "dissected window present but no two distinct tubes clearly isolated at the neck",
+  "fibrous and fatty tissue still covers the triangle between structures",
+  "gallbladder partly lifted with some liver exposed, but dissection incomplete"
+ ],
+ "instruments": "Maryland-type dissector/grasper at the gallbladder neck area, retractor blade at left edge; no clip applier or scissors",
+ "view": "clear",
+ "seconds": 24.1
+}

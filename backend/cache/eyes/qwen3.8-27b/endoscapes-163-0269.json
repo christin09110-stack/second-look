@@ -1,0 +1,17 @@
+{
+ "file": "endoscapes-163-0269.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  1.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "no two distinct clear tubes at GB neck",
+  "fat/fibrous tissue and yellow deposits fill triangle",
+  "GB not lifted; no bare liver strip between"
+ ],
+ "instruments": "clip applier engaged in triangle tissue; target not clearly a duct or vessel",
+ "view": "clear",
+ "seconds": 9.2
+}

@@ -1,0 +1,17 @@
+{
+ "file": "sages-e60de21a-035.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  1.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "no separate duct or artery seen; neck still covered by fat and fibrous tissue",
+  "hepatocystic triangle obscured by fatty areolar tissue, dissection not started",
+  "gallbladder lifted by graspers but lower pole still tissue-covered, no bare cystic plate strip"
+ ],
+ "instruments": "two fenestrated graspers retracting the gallbladder; no clip applier or scissors at any duct or vessel",
+ "view": "clear",
+ "seconds": 11.7
+}

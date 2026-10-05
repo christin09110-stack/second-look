@@ -1,0 +1,17 @@
+{
+ "file": "sages-144fef8d-030.jpg",
+ "model": "moonshotai/Kimi-K2.6",
+ "scores": [
+  1.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "no separate tubes visible",
+  "fat and fibrous tissue fill triangle",
+  "no clear bare cystic plate visible"
+ ],
+ "instruments": "grasper and cautery hook; none at duct or vessel",
+ "view": "dark",
+ "seconds": 38.9
+}

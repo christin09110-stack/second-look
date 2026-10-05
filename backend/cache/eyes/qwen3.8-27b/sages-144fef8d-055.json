@@ -1,0 +1,17 @@
+{
+ "file": "sages-144fef8d-055.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  3.0,
+  2.0,
+  3.0
+ ],
+ "why": [
+  "one pale duct-like tube seen, artery not separate/clear",
+  "fibrous web and fat still over/between in triangle",
+  "gallbladder partly off liver but no clear bare liver strip"
+ ],
+ "instruments": "clip applier at left edge and a dissecting instrument at top; neither clearly at a duct or vessel",
+ "view": "clear",
+ "seconds": 14.5
+}

@@ -1,0 +1,17 @@
+{
+ "file": "endoscapes-163-0234.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  1.0,
+  0.0,
+  1.0
+ ],
+ "why": [
+  "no two distinct tubes seen; field fat-covered and mid-dissection",
+  "abundant fat and fibrous tissue fill the triangle, nothing skeletonized",
+  "liver seen but gallbladder not lifted, no bare cystic plate strip"
+ ],
+ "instruments": "hook dissector in the dissection field, not clearly on a duct or vessel; no clip applier or scissors",
+ "view": "bloody",
+ "seconds": 18.1
+}

@@ -1,0 +1,17 @@
+{
+ "file": "train-190-0699.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  2.0,
+  6.0
+ ],
+ "why": [
+  "one tube hinted, second not delineated",
+  "fat/fibrous strands over triangle",
+  "GB lifted, bare liver strip shows"
+ ],
+ "instruments": "single white-tipped dissector in the triangle; no clip applier or scissors clearly at a duct/vessel",
+ "view": "clear",
+ "seconds": 8.3
+}

@@ -1,0 +1,17 @@
+{
+ "file": "train-190-0659.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  2.0,
+  1.0,
+  6.0
+ ],
+ "why": [
+  "one pale tubular structure near neck, no separate artery, tissue still around",
+  "yellow fat and fibrous tissue still fill the triangle",
+  "gallbladder lifted with bare liver strip below, but filmy tissue remains near neck"
+ ],
+ "instruments": "monopolar hook dissector at gallbladder neck; no clip applier or scissors visible",
+ "view": "clear",
+ "seconds": 23.7
+}

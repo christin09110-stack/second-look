@@ -1,0 +1,17 @@
+{
+ "file": "sages-280aaeb3-030.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  1.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "view obscured by hook shaft; no two separate tubes seen entering gallbladder neck",
+  "yellow fibrofatty tissue still covers the dissection area",
+  "no clear bare liver strip; smooth surface below not identifiable as cystic plate"
+ ],
+ "instruments": "permanent cautery hook dissecting at the fibrous tissue (not clearly at duct/vessel); crocodile grasper labeled but not visible",
+ "view": "blurred - dark, red-tinted, instrument crosses center, on-screen overlay banner",
+ "seconds": 21.2
+}

@@ -1,0 +1,17 @@
+{
+ "file": "endoscapes-194-0216.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  1.0,
+  1.0,
+  3.0
+ ],
+ "why": [
+  "only one tube-like structure seen; neck obscured by tissue",
+  "fibrous/fatty strands remain over the triangle",
+  "smooth liver shown but no clear lifted GB with bare plate strip"
+ ],
+ "instruments": "single blunt/dissecting instrument tip at the right near a vessel; no clip applier or scissors identifiable",
+ "view": "clear",
+ "seconds": 14.6
+}

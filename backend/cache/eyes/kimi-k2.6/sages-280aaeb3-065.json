@@ -1,0 +1,17 @@
+{
+ "file": "sages-280aaeb3-065.jpg",
+ "model": "moonshotai/Kimi-K2.6",
+ "scores": [
+  0.0,
+  0.0,
+  0.0
+ ],
+ "why": [
+  "no two separate tubes visible",
+  "obscured by blood and tissue",
+  "no cystic plate or lifted gallbladder seen"
+ ],
+ "instruments": "crocodile grasper; no clip applier or scissors at duct/vessel",
+ "view": "bloody and obscured",
+ "seconds": 19.7
+}

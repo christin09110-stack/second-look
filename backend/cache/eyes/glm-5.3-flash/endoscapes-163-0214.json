@@ -1,0 +1,17 @@
+{
+ "file": "endoscapes-163-0214.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  1.0,
+  1.0,
+  1.0
+ ],
+ "why": [
+  "no distinct duct or artery tubes seen, only fat and fibrous tissue in dissected area",
+  "hepatocystic triangle filled with fat and fibrous strands, not cleared",
+  "liver edge visible but gallbladder not lifted, no bare cystic plate strip"
+ ],
+ "instruments": "hook dissector with small tissue fragment on tip; no clip applier or scissors at duct or vessel",
+ "view": "bloody",
+ "seconds": 14.9
+}

@@ -1,0 +1,17 @@
+{
+ "file": "endoscapes-194-0266.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  2.0,
+  6.0
+ ],
+ "why": [
+  "one pale tube visible, second hidden in central tissue",
+  "fat/fibrous tissue and reddish mass fill the triangle",
+  "gallbladder retracted, bare liver strip shows below"
+ ],
+ "instruments": "clip applier top-left on gallbladder; second instrument tip at central tissue; none confirmed at a duct/vessel",
+ "view": "clear",
+ "seconds": 10.6
+}

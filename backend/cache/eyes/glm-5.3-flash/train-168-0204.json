@@ -1,0 +1,17 @@
+{
+ "file": "train-168-0204.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  2.0,
+  1.0,
+  4.0
+ ],
+ "why": [
+  "only one fat-covered tube near neck; no second distinct tube",
+  "yellow fat and fibrous tissue still cover the triangle",
+  "gallbladder lifted with some pale dissected area, but no clear bare liver strip"
+ ],
+ "instruments": "fenestrated grasper from left, hook dissector from right near neck fat; no clip applier or scissors",
+ "view": "clear",
+ "seconds": 19.5
+}

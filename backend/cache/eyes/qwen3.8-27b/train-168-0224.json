@@ -1,0 +1,17 @@
+{
+ "file": "train-168-0224.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  2.0,
+  3.0
+ ],
+ "why": [
+  "only one tube clear at right; second tube obscured by fat and clip applier",
+  "yellow fat/fibrous tissue still over and between the triangle",
+  "gallbladder retracted but no clear bare liver strip shown"
+ ],
+ "instruments": "clip applier at top, white-tipped dissector at a tube on right; no clip applier or scissors clearly at a duct/vessel",
+ "view": "slightly blurred, bloody",
+ "seconds": 16.1
+}

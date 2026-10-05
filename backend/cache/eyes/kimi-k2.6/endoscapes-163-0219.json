@@ -1,0 +1,17 @@
+{
+ "file": "endoscapes-163-0219.jpg",
+ "model": "moonshotai/Kimi-K2.6",
+ "scores": [
+  2.0,
+  2.0,
+  3.0
+ ],
+ "why": [
+  "only one tubular structure clearly seen, second tube not distinct",
+  "fat and fibrous tissue still covers triangle",
+  "no clear strip of bare cystic plate visible"
+ ],
+ "instruments": "grasper and hook cautery; hook at duct/vessel",
+ "view": "clear",
+ "seconds": 48.2
+}

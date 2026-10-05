@@ -1,0 +1,17 @@
+{
+ "file": "train-168-0204.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  7.0,
+  6.0,
+  7.0
+ ],
+ "why": [
+  "two tubes discernible, upper one partly under clip applier",
+  "triangle largely cleared with liver visible, residual fat/fibrous tissue at top",
+  "gallbladder lifted, bare liver strip showing between it and liver"
+ ],
+ "instruments": "clip applier (top) and white-tipped dissector (right); clip applier jaws at a duct/vessel",
+ "view": "clear",
+ "seconds": 19.8
+}

@@ -1,0 +1,17 @@
+{
+ "file": "endoscapes-163-0219.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  2.0,
+  2.0,
+  3.0
+ ],
+ "why": [
+  "at most one whitish tube; no two separate cleared structures at neck",
+  "fat and fibrous tissue still cover the triangle area",
+  "no clear bare liver strip; field bloody and undissected"
+ ],
+ "instruments": "hook dissector at lower right touching dissection tissue; grasper tip upper left; no clip applier or scissors at duct/vessel",
+ "view": "bloody",
+ "seconds": 14.0
+}

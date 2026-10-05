@@ -1,0 +1,17 @@
+{
+ "file": "sages-0041dfb1-045.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  1.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "no two distinct clear tubes; active bleed and fat obscure the neck",
+  "yellow fat and fibrous tissue still over/between the triangle",
+  "no bare cystic-plate strip; gallbladder not lifted off liver"
+ ],
+ "instruments": "blue suction/dissector (upper right) and green instrument with metallic tip (lower left) working at the bleeding duct/vessel site; cannot tell whether it is a clip applier or scissors",
+ "view": "clear",
+ "seconds": 9.9
+}

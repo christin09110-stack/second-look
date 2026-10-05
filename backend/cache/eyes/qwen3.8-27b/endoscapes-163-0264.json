@@ -1,0 +1,17 @@
+{
+ "file": "endoscapes-163-0264.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "one tube held by applier, second obscured by blood/instrument",
+  "blood and tissue fill the triangle, not clean",
+  "no bare liver strip, gallbladder not lifted"
+ ],
+ "instruments": "clip applier (top left) on a tube; gray instrument (right) at a duct/vessel",
+ "view": "bloody",
+ "seconds": 13.6
+}

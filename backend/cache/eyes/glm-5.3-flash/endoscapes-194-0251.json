@@ -1,0 +1,17 @@
+{
+ "file": "endoscapes-194-0251.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  2.0,
+  2.0,
+  3.0
+ ],
+ "why": [
+  "window opened near neck but duct and artery not seen as two separate clear tubes",
+  "yellow fat and fibrous strands still cover the triangle",
+  "gallbladder not lifted off liver, no clear bare cystic plate strip"
+ ],
+ "instruments": "atraumatic grasper holding gallbladder at upper left; clip applier from lower right with jaws in the dissected window at the neck, apparently on a duct/vessel",
+ "view": "clear",
+ "seconds": 33.4
+}

@@ -1,0 +1,17 @@
+{
+ "file": "sages-e60de21a-075.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  3.0,
+  2.0,
+  5.0
+ ],
+ "why": [
+  "one dissected tube (likely cystic duct) crosses the field, but no separate second tube (artery) is identifiable",
+  "yellow fat and fibrous tissue still cover the area around the tube and to the right",
+  "shiny bare liver surface shows below the lifted tube, but the gallbladder edge/plate margin is not clearly seen"
+ ],
+ "instruments": "dark grasper/dissector shaft from upper left with tip at the duct; no clip applier or scissors visible",
+ "view": "clear",
+ "seconds": 40.4
+}

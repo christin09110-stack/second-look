@@ -1,0 +1,123 @@
+{
+ "case": "sages-280aaeb3",
+ "decision": {
+  "frames": [
+   {
+    "i": 0,
+    "c1": "not_met",
+    "c2": "not_met",
+    "c3": "not_met",
+    "action": "silent",
+    "note": "All three criteria not met."
+   },
+   {
+    "i": 1,
+    "c1": "not_met",
+    "c2": "not_met",
+    "c3": "not_met",
+    "action": "silent",
+    "note": "All three criteria not met."
+   },
+   {
+    "i": 2,
+    "c1": "not_met",
+    "c2": "not_met",
+    "c3": "not_met",
+    "action": "silent",
+    "note": "All three criteria not met."
+   },
+   {
+    "i": 3,
+    "c1": "not_met",
+    "c2": "not_met",
+    "c3": "not_met",
+    "action": "silent",
+    "note": "All three criteria not met."
+   },
+   {
+    "i": 4,
+    "c1": "not_met",
+    "c2": "not_met",
+    "c3": "not_met",
+    "action": "silent",
+    "note": "All three criteria not met."
+   },
+   {
+    "i": 5,
+    "c1": "not_met",
+    "c2": "not_met",
+    "c3": "not_met",
+    "action": "silent",
+    "note": "All three criteria not met."
+   },
+   {
+    "i": 6,
+    "c1": "not_met",
+    "c2": "not_met",
+    "c3": "not_met",
+    "action": "silent",
+    "note": "All three criteria not met."
+   },
+   {
+    "i": 7,
+    "c1": "not_met",
+    "c2": "not_met",
+    "c3": "not_met",
+    "action": "silent",
+    "note": "All three criteria not met."
+   },
+   {
+    "i": 8,
+    "c1": "not_met",
+    "c2": "not_met",
+    "c3": "not_met",
+    "action": "silent",
+    "note": "All three criteria not met."
+   },
+   {
+    "i": 9,
+    "c1": "not_met",
+    "c2": "met",
+    "c3": "not_met",
+    "action": "log",
+    "note": "Cystic triangle cleared; cystic duct and artery not seen."
+   },
+   {
+    "i": 10,
+    "c1": "not_met",
+    "c2": "not_met",
+    "c3": "not_met",
+    "action": "log",
+    "note": "Cystic triangle not cleared; duct and artery still not seen."
+   },
+   {
+    "i": 11,
+    "c1": "not_met",
+    "c2": "not_met",
+    "c3": "not_met",
+    "action": "silent",
+    "note": "All three criteria not met."
+   }
+  ],
+  "gate": {
+   "verdict": "hold",
+   "c1": "not_met",
+   "c2": "not_met",
+   "c3": "not_met",
+   "message": "Hold. Cystic duct and artery not seen; triangle not cleared; plate not exposed."
+  }
+ },
+ "audit": {
+  "verdict": "hold",
+  "changed": false,
+  "debrief": "Final frame confirms cystic duct, artery, and triangle all missing. Next, expose Calot's triangle completely to clearly identify the duct and artery for clipping."
+ },
+ "models": {
+  "eyes": [
+   "Qwen/Qwen3.8-27B",
+   "zai-org/GLM-5.3-Flash"
+  ],
+  "gate": "nvidia/nemotron-3-super-120b-a12b",
+  "audit": "nvidia/Nemotron-3-Ultra-550b-a55b"
+ }
+}

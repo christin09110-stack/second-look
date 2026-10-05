@@ -1,0 +1,17 @@
+{
+ "file": "train-168-0214.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  1.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "translucent membrane and blood streak cover the neck; no two distinct clear tubes",
+  "fat and fibrous membrane with vessels still fill the triangle",
+  "gallbladder not lifted; no bare liver strip visible between it and liver"
+ ],
+ "instruments": "clip applier across the top and a white dissecting instrument at right; neither clearly on a duct or vessel",
+ "view": "clear",
+ "seconds": 10.7
+}

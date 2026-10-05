@@ -1,0 +1,17 @@
+{
+ "file": "train-168-0244.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  2.0,
+  1.0,
+  6.0
+ ],
+ "why": [
+  "no two distinct tubes seen; fibrous strands over neck area",
+  "yellow fat and fibrous strands still fill the triangle",
+  "liver surface partly exposed beside lifted gallbladder, but no clean strip"
+ ],
+ "instruments": "hook dissector entering from right, tip not on duct or vessel; no clip applier or scissors",
+ "view": "clear",
+ "seconds": 23.4
+}

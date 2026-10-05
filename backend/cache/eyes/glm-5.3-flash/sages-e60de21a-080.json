@@ -1,0 +1,17 @@
+{
+ "file": "sages-e60de21a-080.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  5.0,
+  4.0,
+  7.0
+ ],
+ "why": [
+  "one pale tube (likely duct) clearly freed, but no second tube (artery) distinctly seen entering the neck",
+  "yellow fibrofatty tissue still coats the gallbladder neck and sits around the tubes",
+  "gallbladder retracted up-left with broad shiny bare liver surface showing beneath the tubes"
+ ],
+ "instruments": "dark grasper/dissector shaft from upper left retracting near the neck; no clip applier or scissors at duct or vessel",
+ "view": "clear",
+ "seconds": 107.8
+}

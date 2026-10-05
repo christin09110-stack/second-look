@@ -1,0 +1,17 @@
+{
+ "file": "sages-280aaeb3-035.jpg",
+ "model": "moonshotai/Kimi-K2.6",
+ "scores": [
+  1.0,
+  0.0,
+  2.0
+ ],
+ "why": [
+  "heavy bleeding obscures tubular anatomy",
+  "triangle filled with blood and fibrofatty tissue",
+  "liver surface seen below but no clear bare cystic plate through blood"
+ ],
+ "instruments": "Crocodile Grasper and Permanent Cautery Hook; no clip applier or scissors at duct or vessel",
+ "view": "bloody and obscured",
+ "seconds": 34.1
+}

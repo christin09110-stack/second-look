@@ -1,0 +1,17 @@
+{
+ "file": "sages-0041dfb1-085.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  1.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "no two distinct clear tubes at the neck; obscured by instruments and fat",
+  "yellow fat and fibrous tissue fill the triangle",
+  "gallbladder not lifted off liver; no bare cystic-plate strip seen"
+ ],
+ "instruments": "two instruments (a thick metallic shaft and a thinner grasper) converging on a small bleed; cannot tell if a clip applier/scissors is at a duct or vessel",
+ "view": "clear",
+ "seconds": 9.1
+}

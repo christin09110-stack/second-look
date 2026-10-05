@@ -1,0 +1,17 @@
+{
+ "file": "sages-0041dfb1-040.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "no two clear separate tubes; neck obscured by fat",
+  "yellow fat/fibrous tissue fills the triangle",
+  "gallbladder not lifted; no bare liver strip seen"
+ ],
+ "instruments": "blue retractor/suction and gray grasper/clip applier; cannot tell if at a duct or vessel",
+ "view": "clear",
+ "seconds": 10.9
+}

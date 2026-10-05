@@ -1,0 +1,17 @@
+{
+ "file": "train-168-0219.jpg",
+ "model": "zai-org/GLM-5.3-Flash",
+ "scores": [
+  1.0,
+  2.0,
+  2.0
+ ],
+ "why": [
+  "no two distinct tubes seen, only fat and a small dissected window",
+  "yellow fat and fibrous tissue still cover the triangle",
+  "close-up of adherent gallbladder, no bare cystic plate strip visible"
+ ],
+ "instruments": "atraumatic grasper holding gallbladder above, L-hook dissector near fat; no clip applier or scissors at duct or vessel",
+ "view": "clear",
+ "seconds": 11.6
+}

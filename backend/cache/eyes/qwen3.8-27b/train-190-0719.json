@@ -1,0 +1,17 @@
+{
+ "file": "train-190-0719.jpg",
+ "model": "Qwen/Qwen3.8-27B",
+ "scores": [
+  2.0,
+  2.0,
+  6.0
+ ],
+ "why": [
+  "one tube (cystic duct) discernible, second not clear of tissue",
+  "yellowish fibrous/fatty band still over and between the tubes",
+  "gallbladder retracted left, strip of bare liver exposed but not pristine"
+ ],
+ "instruments": "retractor/grasper holding the gallbladder neck on the left; no clip applier or scissors at a duct or vessel",
+ "view": "clear",
+ "seconds": 10.0
+}

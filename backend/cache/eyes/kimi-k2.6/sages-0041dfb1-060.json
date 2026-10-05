@@ -1,0 +1,17 @@
+{
+ "file": "sages-0041dfb1-060.jpg",
+ "model": "moonshotai/Kimi-K2.6",
+ "scores": [
+  1.0,
+  1.0,
+  2.0
+ ],
+ "why": [
+  "no two separate tubes identifiable",
+  "triangle obscured by tissue and blood",
+  "gallbladder still in fossa, no bare cystic plate visible"
+ ],
+ "instruments": "dissecting instrument at gallbladder neck, no clip applier or scissors at duct or vessel",
+ "view": "bloody",
+ "seconds": 106.1
+}
